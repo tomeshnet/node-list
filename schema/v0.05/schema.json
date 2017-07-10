@@ -39,7 +39,7 @@
             "dateAdded": {
                  "type": "date-time"
             },
-        "required": ["name", "nodeLocation", "online", "cardinalDirection", "floor", "meshHardware", "IPV6Address"]
+        "required": ["name", "nodeLocation", "online", "cardinalDirection", "floor", "meshHardware", "IPV6Address","dateAdded"]
         }
     }
 }
