@@ -33,7 +33,13 @@
             "IPV6Address": {
                 "type": "string"
             },
-        "required": ["name", "nodeLocation", "online", "cardinalDirection", "floor", "meshHardware", "IPV6Address"]
+            "Contact": {
+                "type": "string"
+            },
+            "dateAdded": {
+                 "type": "date-time"
+            },
+        "required": ["name", "nodeLocation", "online", "cardinalDirection", "floor", "meshHardware", "IPV6Address","dateAdded"]
         }
     }
 }
