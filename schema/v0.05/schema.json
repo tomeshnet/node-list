@@ -15,31 +15,21 @@
             "longitude": {
                 "type": "number"
             },
-            "onlineStatus": {
-                "type": "string",
-                "enum": ["Online", "Offline"]
-            },
             "cardinalDirection": {
                 "type": "string",
                 "enum": ["North", "North East", "East", "South East", "South", "South West", "West", "North West", "Omni"]
             },
-            "floor": {
-                "type": "integer"
-            },
-            "meshHardware": {
-                "type": "string",
-                "enum": ["Low Power Omni", "High Power Directional", "No H/W, Potential Location"]
-            },
             "IPV6Address": {
                 "type": "string"
             },
-            "contact": {
-                "type": "string"
-            },
+            "status": {
+                "type": "string",
+                "enum": ["proposed", "active"]
+            },            
             "dateAdded": {
                  "type": "date-time"
             },
-        "required": ["name", "nodeLocation", "online", "cardinalDirection", "floor", "meshHardware", "IPV6Address"]
+        "required": ["name", "latitude", "longitude", "cardinalDirection", "status", "dateAdded"]
         }
     }
 }
