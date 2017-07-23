@@ -1,852 +1,900 @@
 [
- {
-   "name": "Potential 1",
-   "latitude": 43.647513,
-   "longitude": -79.392702,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North West",
-   "floor": 23,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 2",
-   "latitude": 43.647513,
-   "longitude": -79.392702,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North West",
-   "floor": 21,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 3",
-   "latitude": 43.64794,
-   "longitude": -79.390942,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "West",
-   "floor": 23,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 4",
-   "latitude": 43.659564,
-   "longitude": -79.382989,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "None",
-   "floor": 8,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 5",
-   "latitude": 43.661927,
-   "longitude": -79.386511,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North West",
-   "floor": 11,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 6",
-   "latitude": 43.661927,
-   "longitude": -79.386511,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 24,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 7",
-   "latitude": 43.661927,
-   "longitude": -79.386511,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "West",
-   "floor": 29,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 8",
-   "latitude": 43.661927,
-   "longitude": -79.386511,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 17,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 9",
-   "latitude": 43.661927,
-   "longitude": -79.386511,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "West",
-   "floor": 38,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 10",
-   "latitude": 43.647165,
-   "longitude": -79.397347,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North",
-   "floor": 3,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 11",
-   "latitude": 43.659567,
-   "longitude": -79.384831,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "West",
-   "floor": 12,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 12",
-   "latitude": 43.643846,
-   "longitude": -79.391824,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 8,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 13",
-   "latitude": 43.643846,
-   "longitude": -79.391824,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "None",
-   "floor": 2,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 14",
-   "latitude": 43.643846,
-   "longitude": -79.391824,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North East",
-   "floor": 18,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 15",
-   "latitude": 43.643846,
-   "longitude": -79.391824,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 16,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 16",
-   "latitude": 43.643846,
-   "longitude": -79.391824,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 12,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 17",
-   "latitude": 43.643846,
-   "longitude": -79.391824,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North East",
-   "floor": 11,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 18",
-   "latitude": 43.643846,
-   "longitude": -79.391824,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 6,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 19",
-   "latitude": 43.643846,
-   "longitude": -79.391824,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 5,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 20",
-   "latitude": 43.765186,
-   "longitude": -79.384719,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 20,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 21",
-   "latitude": 43.765186,
-   "longitude": -79.384719,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 16,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 22",
-   "latitude": 43.659534,
-   "longitude": -79.382825,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "None",
-   "floor": 78,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 23",
-   "latitude": 43.641683,
-   "longitude": -79.382565,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North East",
-   "floor": 21,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 24",
-   "latitude": 43.641683,
-   "longitude": -79.382565,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North East",
-   "floor": 22,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 25",
-   "latitude": 43.641683,
-   "longitude": -79.382565,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North East",
-   "floor": 23,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 26",
-   "latitude": 43.645626,
-   "longitude": -79.394523,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 11,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 27",
-   "latitude": 43.65215,
-   "longitude": -79.369236,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North",
-   "floor": 4,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 28",
-   "latitude": 43.645195,
-   "longitude": -79.390681,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North",
-   "floor": 10,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 29",
-   "latitude": 43.645195,
-   "longitude": -79.390681,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 6,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 30",
-   "latitude": 43.643012,
-   "longitude": -79.406201,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "West",
-   "floor": 8,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 31",
-   "latitude": 43.643012,
-   "longitude": -79.406201,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 7,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 32",
-   "latitude": 43.643012,
-   "longitude": -79.406201,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "West",
-   "floor": 7,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 33",
-   "latitude": 43.643081,
-   "longitude": -79.405568,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North",
-   "floor": 4,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 34",
-   "latitude": 43.643081,
-   "longitude": -79.405568,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North",
-   "floor": 2,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 35",
-   "latitude": 43.637162,
-   "longitude": -79.400599,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 3,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 36",
-   "latitude": 43.637162,
-   "longitude": -79.400599,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North",
-   "floor": 6,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 37",
-   "latitude": 43.640478,
-   "longitude": -79.39497,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North",
-   "floor": 7,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 38",
-   "latitude": 43.639683,
-   "longitude": -79.392119,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 29,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 39",
-   "latitude": 43.646874,
-   "longitude": -79.371078,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North",
-   "floor": 9,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 40",
-   "latitude": 43.646874,
-   "longitude": -79.371078,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "None",
-   "floor": 5,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 41",
-   "latitude": 43.642861,
-   "longitude": -79.380732,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "West",
-   "floor": 50,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 42",
-   "latitude": 43.642861,
-   "longitude": -79.380732,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "West",
-   "floor": 27,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 43",
-   "latitude": 43.642861,
-   "longitude": -79.380732,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "West",
-   "floor": 33,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 44",
-   "latitude": 43.642861,
-   "longitude": -79.380732,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 43,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 45",
-   "latitude": 43.642885,
-   "longitude": -79.380617,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South West",
-   "floor": 34,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 46",
-   "latitude": 43.642885,
-   "longitude": -79.380617,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 23,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 47",
-   "latitude": 43.642861,
-   "longitude": -79.380732,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 38,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 48",
-   "latitude": 43.642885,
-   "longitude": -79.380617,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South West",
-   "floor": 43,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 49",
-   "latitude": 43.642861,
-   "longitude": -79.380732,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North West",
-   "floor": 36,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 50",
-   "latitude": 43.642861,
-   "longitude": -79.380732,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North West",
-   "floor": 26,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 51",
-   "latitude": 43.642885,
-   "longitude": -79.380617,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 44,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 52",
-   "latitude": 43.642885,
-   "longitude": -79.380617,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North",
-   "floor": 21,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 53",
-   "latitude": 43.661896,
-   "longitude": -79.385748,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North West",
-   "floor": 25,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 54",
-   "latitude": 43.654842,
-   "longitude": -79.379202,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North West",
-   "floor": 16,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 55",
-   "latitude": 43.654842,
-   "longitude": -79.379202,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North West",
-   "floor": 6,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 56",
-   "latitude": 43.654455,
-   "longitude": -79.37921,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "None",
-   "floor": 10,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 57",
-   "latitude": 43.639783,
-   "longitude": -79.397947,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North",
-   "floor": 19,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 58",
-   "latitude": 43.650092,
-   "longitude": -79.387374,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 10,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 59",
-   "latitude": 43.643948,
-   "longitude": -79.38868,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 38,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 60",
-   "latitude": 43.643846,
-   "longitude": -79.391824,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North West",
-   "floor": 15,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 61",
-   "latitude": 43.643846,
-   "longitude": -79.391824,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 12,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 62",
-   "latitude": 43.643846,
-   "longitude": -79.391824,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 19,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 63",
-   "latitude": 43.643846,
-   "longitude": -79.391824,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 7,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 64",
-   "latitude": 43.761154,
-   "longitude": -79.408838,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South East",
-   "floor": 11,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 65",
-   "latitude": 43.648786,
-   "longitude": -79.372531,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "N/A",
-   "floor": 2,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 66",
-   "latitude": 43.647226,
-   "longitude": -79.3911,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 23,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 67",
-   "latitude": 43.647226,
-   "longitude": -79.3911,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 17,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 68",
-   "latitude": 43.64738,
-   "longitude": -79.387274,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North",
-   "floor": 13,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 69",
-   "latitude": 43.649531,
-   "longitude": -79.387273,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 8,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 70",
-   "latitude": 43.649531,
-   "longitude": -79.387273,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "West",
-   "floor": 4,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 71",
-   "latitude": 43.648798,
-   "longitude": -79.377101,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South East",
-   "floor": 16,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 72",
-   "latitude": 43.666981,
-   "longitude": -79.388889,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 21,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 73",
-   "latitude": 43.661927,
-   "longitude": -79.384153,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North West",
-   "floor": 50,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 74",
-   "latitude": 43.661927,
-   "longitude": -79.384153,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "North West",
-   "floor": 49,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 75",
-   "latitude": 43.640283,
-   "longitude": -79.38106,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 29,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 76",
-   "latitude": 43.640283,
-   "longitude": -79.38106,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 6,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 77",
-   "latitude": 43.639851,
-   "longitude": -79.382428,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 26,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 78",
-   "latitude": 43.640283,
-   "longitude": -79.38106,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 23,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 79",
-   "latitude": 43.640283,
-   "longitude": -79.38106,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 25,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 80",
-   "latitude": 43.640283,
-   "longitude": -79.38106,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 8,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 81",
-   "latitude": 43.640283,
-   "longitude": -79.38106,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 14,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 82",
-   "latitude": 43.668776,
-   "longitude": -79.383996,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 15,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 83",
-   "latitude": 43.67213,
-   "longitude": -79.387886,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "East",
-   "floor": 4,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 84",
-   "latitude": 43.668776,
-   "longitude": -79.383996,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 38,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- },
- {
-   "name": "Potential 85",
-   "latitude": 43.668776,
-   "longitude": -79.383996,
-   "onlineStatus": "Offline",
-   "cardinalDirection": "South",
-   "floor": 28,
-   "meshHardware": "None",
-   "IPV6Addres": "None"
- }
+   {
+      "name":"Willowdale Mesh Node",
+      "latitude":43.77031350236652,
+      "longitude":-79.41487752247622,
+      "onlineStatus":"Online",
+      "cardinalDirection":"Omni",
+      "floor":"0",
+      "meshHardware":"Unknown",
+      "IPV6Address":"Unknown",
+      "lastPing":"-1",
+      "rtt":"0"
+   },
+   {
+      "name":"Willowdale Mesh Node",
+      "latitude":43.76950388379755,
+      "longitude":-79.42292951393893,
+      "onlineStatus":"Online",
+      "cardinalDirection":"Omni",
+      "floor":"",
+      "meshHardware":"Unknown",
+      "IPV6Address":"Unknown",
+      "lastPing":"-1",
+      "rtt":"0"
+   },
+   {
+      "name":"E-Mesh",
+      "latitude":43.68306736430572,
+      "longitude":-79.52565314047547,
+      "onlineStatus":"Online",
+      "cardinalDirection":"North",
+      "floor":"13",
+      "meshHardware":"Orange Pi ZERO and Alfa Networks",
+      "IPV6Address":"fcd6:6334:552e:351b:39ae:9b95:f4ce:318a",
+      "lastPing":"13",
+      "rtt":"0"
+   },
+   {
+      "name":"benhylau",
+      "latitude":43.63518200000000,
+      "longitude":-79.40201470000000,
+      "onlineStatus":"Online",
+      "cardinalDirection":"South",
+      "floor":"1",
+      "meshHardware":"Unknown",
+      "IPV6Address":"h.groundupworks.com",
+      "lastPing":"13",
+      "rtt":"0"
+   },
+   {
+      "name":"Potential 1",
+      "latitude":43.647513,
+      "longitude":-79.392702,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North West",
+      "floor":23,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 2",
+      "latitude":43.647513,
+      "longitude":-79.392702,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North West",
+      "floor":21,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 3",
+      "latitude":43.64794,
+      "longitude":-79.390942,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"West",
+      "floor":23,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 4",
+      "latitude":43.659564,
+      "longitude":-79.382989,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"None",
+      "floor":8,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 5",
+      "latitude":43.661927,
+      "longitude":-79.386511,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North West",
+      "floor":11,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 6",
+      "latitude":43.661927,
+      "longitude":-79.386511,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":24,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 7",
+      "latitude":43.661927,
+      "longitude":-79.386511,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"West",
+      "floor":29,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 8",
+      "latitude":43.661927,
+      "longitude":-79.386511,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":17,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 9",
+      "latitude":43.661927,
+      "longitude":-79.386511,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"West",
+      "floor":38,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 10",
+      "latitude":43.647165,
+      "longitude":-79.397347,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North",
+      "floor":3,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 11",
+      "latitude":43.659567,
+      "longitude":-79.384831,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"West",
+      "floor":12,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 12",
+      "latitude":43.643846,
+      "longitude":-79.391824,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":8,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 13",
+      "latitude":43.643846,
+      "longitude":-79.391824,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"None",
+      "floor":2,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 14",
+      "latitude":43.643846,
+      "longitude":-79.391824,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North East",
+      "floor":18,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 15",
+      "latitude":43.643846,
+      "longitude":-79.391824,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":16,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 16",
+      "latitude":43.643846,
+      "longitude":-79.391824,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":12,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 17",
+      "latitude":43.643846,
+      "longitude":-79.391824,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North East",
+      "floor":11,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 18",
+      "latitude":43.643846,
+      "longitude":-79.391824,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":6,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 19",
+      "latitude":43.643846,
+      "longitude":-79.391824,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":5,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 20",
+      "latitude":43.765186,
+      "longitude":-79.384719,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":20,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 21",
+      "latitude":43.765186,
+      "longitude":-79.384719,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":16,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 22",
+      "latitude":43.659534,
+      "longitude":-79.382825,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"None",
+      "floor":78,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 23",
+      "latitude":43.641683,
+      "longitude":-79.382565,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North East",
+      "floor":21,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 24",
+      "latitude":43.641683,
+      "longitude":-79.382565,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North East",
+      "floor":22,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 25",
+      "latitude":43.641683,
+      "longitude":-79.382565,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North East",
+      "floor":23,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 26",
+      "latitude":43.645626,
+      "longitude":-79.394523,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":11,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 27",
+      "latitude":43.65215,
+      "longitude":-79.369236,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North",
+      "floor":4,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 28",
+      "latitude":43.645195,
+      "longitude":-79.390681,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North",
+      "floor":10,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 29",
+      "latitude":43.645195,
+      "longitude":-79.390681,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":6,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 30",
+      "latitude":43.643012,
+      "longitude":-79.406201,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"West",
+      "floor":8,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 31",
+      "latitude":43.643012,
+      "longitude":-79.406201,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":7,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 32",
+      "latitude":43.643012,
+      "longitude":-79.406201,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"West",
+      "floor":7,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 33",
+      "latitude":43.643081,
+      "longitude":-79.405568,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North",
+      "floor":4,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 34",
+      "latitude":43.643081,
+      "longitude":-79.405568,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North",
+      "floor":2,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 35",
+      "latitude":43.637162,
+      "longitude":-79.400599,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":3,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 36",
+      "latitude":43.637162,
+      "longitude":-79.400599,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North",
+      "floor":6,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 37",
+      "latitude":43.640478,
+      "longitude":-79.39497,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North",
+      "floor":7,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 38",
+      "latitude":43.639683,
+      "longitude":-79.392119,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":29,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 39",
+      "latitude":43.646874,
+      "longitude":-79.371078,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North",
+      "floor":9,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 40",
+      "latitude":43.646874,
+      "longitude":-79.371078,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"None",
+      "floor":5,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 41",
+      "latitude":43.642861,
+      "longitude":-79.380732,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"West",
+      "floor":50,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 42",
+      "latitude":43.642861,
+      "longitude":-79.380732,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"West",
+      "floor":27,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 43",
+      "latitude":43.642861,
+      "longitude":-79.380732,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"West",
+      "floor":33,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 44",
+      "latitude":43.642861,
+      "longitude":-79.380732,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":43,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 45",
+      "latitude":43.642885,
+      "longitude":-79.380617,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South West",
+      "floor":34,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 46",
+      "latitude":43.642885,
+      "longitude":-79.380617,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":23,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 47",
+      "latitude":43.642861,
+      "longitude":-79.380732,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":38,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 48",
+      "latitude":43.642885,
+      "longitude":-79.380617,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South West",
+      "floor":43,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 49",
+      "latitude":43.642861,
+      "longitude":-79.380732,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North West",
+      "floor":36,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 50",
+      "latitude":43.642861,
+      "longitude":-79.380732,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North West",
+      "floor":26,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 51",
+      "latitude":43.642885,
+      "longitude":-79.380617,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":44,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 52",
+      "latitude":43.642885,
+      "longitude":-79.380617,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North",
+      "floor":21,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 53",
+      "latitude":43.661896,
+      "longitude":-79.385748,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North West",
+      "floor":25,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 54",
+      "latitude":43.654842,
+      "longitude":-79.379202,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North West",
+      "floor":16,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 55",
+      "latitude":43.654842,
+      "longitude":-79.379202,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North West",
+      "floor":6,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 56",
+      "latitude":43.654455,
+      "longitude":-79.37921,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"None",
+      "floor":10,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 57",
+      "latitude":43.639783,
+      "longitude":-79.397947,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North",
+      "floor":19,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 58",
+      "latitude":43.650092,
+      "longitude":-79.387374,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":10,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 59",
+      "latitude":43.643948,
+      "longitude":-79.38868,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":38,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 60",
+      "latitude":43.643846,
+      "longitude":-79.391824,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North West",
+      "floor":15,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 61",
+      "latitude":43.643846,
+      "longitude":-79.391824,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":12,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 62",
+      "latitude":43.643846,
+      "longitude":-79.391824,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":19,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 63",
+      "latitude":43.643846,
+      "longitude":-79.391824,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":7,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 64",
+      "latitude":43.761154,
+      "longitude":-79.408838,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South East",
+      "floor":11,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 65",
+      "latitude":43.648786,
+      "longitude":-79.372531,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"N/A",
+      "floor":2,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 66",
+      "latitude":43.647226,
+      "longitude":-79.3911,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":23,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 67",
+      "latitude":43.647226,
+      "longitude":-79.3911,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":17,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 68",
+      "latitude":43.64738,
+      "longitude":-79.387274,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North",
+      "floor":13,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 69",
+      "latitude":43.649531,
+      "longitude":-79.387273,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":8,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 70",
+      "latitude":43.649531,
+      "longitude":-79.387273,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"West",
+      "floor":4,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 71",
+      "latitude":43.648798,
+      "longitude":-79.377101,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South East",
+      "floor":16,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 72",
+      "latitude":43.666981,
+      "longitude":-79.388889,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":21,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 73",
+      "latitude":43.661927,
+      "longitude":-79.384153,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North West",
+      "floor":50,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 74",
+      "latitude":43.661927,
+      "longitude":-79.384153,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"North West",
+      "floor":49,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 75",
+      "latitude":43.640283,
+      "longitude":-79.38106,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":29,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 76",
+      "latitude":43.640283,
+      "longitude":-79.38106,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":6,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 77",
+      "latitude":43.639851,
+      "longitude":-79.382428,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":26,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 78",
+      "latitude":43.640283,
+      "longitude":-79.38106,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":23,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 79",
+      "latitude":43.640283,
+      "longitude":-79.38106,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":25,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 80",
+      "latitude":43.640283,
+      "longitude":-79.38106,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":8,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 81",
+      "latitude":43.640283,
+      "longitude":-79.38106,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":14,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 82",
+      "latitude":43.668776,
+      "longitude":-79.383996,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":15,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 83",
+      "latitude":43.67213,
+      "longitude":-79.387886,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"East",
+      "floor":4,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 84",
+      "latitude":43.668776,
+      "longitude":-79.383996,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":38,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   },
+   {
+      "name":"Potential 85",
+      "latitude":43.668776,
+      "longitude":-79.383996,
+      "onlineStatus":"Offline",
+      "cardinalDirection":"South",
+      "floor":28,
+      "meshHardware":"None",
+      "IPV6Addres":"None"
+   }
 ]
