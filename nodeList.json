@@ -1,4 +1,4 @@
-{
+[
    {
       "name":"Willowdale Mesh Node",
       "latitude":43.77031350236652,
@@ -897,4 +897,4 @@
       "meshHardware":"None",
       "IPV6Address":"None"
    }
-}
+]
