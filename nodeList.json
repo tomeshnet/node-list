@@ -6,7 +6,6 @@
       "onlineStatus":"Online",
       "cardinalDirection":"Omni",
       "floor":"0",
-      "meshHardware":"Unknown",
       "IPV6Address":"Unknown",
       "status":"active",
       "dateAdded":"2017-15-18T00:00:00.0Z"
@@ -18,7 +17,6 @@
       "onlineStatus":"Online",
       "cardinalDirection":"Omni",
       "floor":"0",
-      "meshHardware":"Unknown",
       "IPV6Address":"Unknown",
       "status":"active",
       "dateAdded":"2017-15-18T00:00:00.0Z"
@@ -42,7 +40,6 @@
       "onlineStatus":"Online",
       "cardinalDirection":"South",
       "floor":"1",
-      "meshHardware":"Unknown",
       "IPV6Address":"h.groundupworks.com",
       "status":"active",
       "dateAdded":"2017-15-18T00:00:00.0Z"
@@ -54,8 +51,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North West",
       "floor":23,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -66,8 +61,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North West",
       "floor":21,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -78,8 +71,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"West",
       "floor":23,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -90,8 +81,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"None",
       "floor":8,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -102,8 +91,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North West",
       "floor":11,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -114,8 +101,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":24,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -126,8 +111,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"West",
       "floor":29,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -138,8 +121,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":17,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -150,8 +131,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"West",
       "floor":38,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -162,8 +141,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North",
       "floor":3,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -174,8 +151,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"West",
       "floor":12,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -186,8 +161,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":8,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -198,8 +171,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"None",
       "floor":2,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -210,8 +181,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North East",
       "floor":18,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -222,8 +191,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":16,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -234,8 +201,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":12,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -246,8 +211,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North East",
       "floor":11,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -258,8 +221,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":6,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -270,8 +231,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":5,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -282,8 +241,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":20,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -294,8 +251,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":16,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -306,8 +261,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"None",
       "floor":78,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -318,8 +271,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North East",
       "floor":21,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -330,8 +281,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North East",
       "floor":22,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -342,8 +291,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North East",
       "floor":23,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -354,8 +301,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":11,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -366,8 +311,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North",
       "floor":4,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -378,8 +321,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North",
       "floor":10,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -390,8 +331,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":6,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -402,8 +341,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"West",
       "floor":8,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -414,8 +351,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":7,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -426,8 +361,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"West",
       "floor":7,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -438,8 +371,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North",
       "floor":4,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -450,8 +381,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North",
       "floor":2,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -462,8 +391,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":3,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -474,8 +401,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North",
       "floor":6,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -486,8 +411,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North",
       "floor":7,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -498,8 +421,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":29,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -510,8 +431,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North",
       "floor":9,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -522,8 +441,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"None",
       "floor":5,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -534,8 +451,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"West",
       "floor":50,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -546,8 +461,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"West",
       "floor":27,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -558,8 +471,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"West",
       "floor":33,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -570,8 +481,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":43,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -582,8 +491,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South West",
       "floor":34,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -594,8 +501,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":23,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -606,8 +511,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":38,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -618,8 +521,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South West",
       "floor":43,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -630,8 +531,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North West",
       "floor":36,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -642,8 +541,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North West",
       "floor":26,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -654,8 +551,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":44,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -666,8 +561,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North",
       "floor":21,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -678,8 +571,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North West",
       "floor":25,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -690,8 +581,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North West",
       "floor":16,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -702,8 +591,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North West",
       "floor":6,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -714,8 +601,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"None",
       "floor":10,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -726,8 +611,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North",
       "floor":19,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -738,8 +621,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":10,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -750,8 +631,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":38,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -762,8 +641,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North West",
       "floor":15,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -774,8 +651,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":12,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -786,8 +661,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":19,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -798,8 +671,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":7,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -810,8 +681,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South East",
       "floor":11,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -822,8 +691,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"N/A",
       "floor":2,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -834,8 +701,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":23,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -846,8 +711,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":17,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -858,8 +721,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North",
       "floor":13,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -870,8 +731,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":8,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -882,8 +741,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"West",
       "floor":4,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -894,8 +751,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South East",
       "floor":16,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -906,8 +761,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":21,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -918,8 +771,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North West",
       "floor":50,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -930,8 +781,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"North West",
       "floor":49,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -942,8 +791,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":29,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -954,8 +801,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":6,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -966,8 +811,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":26,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -978,8 +821,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":23,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -990,8 +831,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":25,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -1002,8 +841,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":8,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -1014,8 +851,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":14,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -1026,8 +861,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":15,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -1038,8 +871,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"East",
       "floor":4,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -1050,8 +881,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":38,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    },
@@ -1062,8 +891,6 @@
       "onlineStatus":"Offline",
       "cardinalDirection":"South",
       "floor":28,
-      "meshHardware":"None",
-      "IPV6Address":"None",
       "status":"proposed",
       "dateAdded":"2017-15-18T00:00:00.0Z"
    }
