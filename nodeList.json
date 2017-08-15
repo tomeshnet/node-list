@@ -1,4 +1,4 @@
-[
+{
    {
       "name":"Willowdale Mesh Node",
       "latitude":43.77031350236652,
@@ -55,7 +55,7 @@
       "cardinalDirection":"North West",
       "floor":23,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 2",
@@ -65,7 +65,7 @@
       "cardinalDirection":"North West",
       "floor":21,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 3",
@@ -75,7 +75,7 @@
       "cardinalDirection":"West",
       "floor":23,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 4",
@@ -85,7 +85,7 @@
       "cardinalDirection":"None",
       "floor":8,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 5",
@@ -95,7 +95,7 @@
       "cardinalDirection":"North West",
       "floor":11,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 6",
@@ -105,7 +105,7 @@
       "cardinalDirection":"East",
       "floor":24,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 7",
@@ -115,7 +115,7 @@
       "cardinalDirection":"West",
       "floor":29,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 8",
@@ -125,7 +125,7 @@
       "cardinalDirection":"East",
       "floor":17,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 9",
@@ -135,7 +135,7 @@
       "cardinalDirection":"West",
       "floor":38,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 10",
@@ -145,7 +145,7 @@
       "cardinalDirection":"North",
       "floor":3,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 11",
@@ -155,7 +155,7 @@
       "cardinalDirection":"West",
       "floor":12,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 12",
@@ -165,7 +165,7 @@
       "cardinalDirection":"South",
       "floor":8,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 13",
@@ -175,7 +175,7 @@
       "cardinalDirection":"None",
       "floor":2,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 14",
@@ -185,7 +185,7 @@
       "cardinalDirection":"North East",
       "floor":18,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 15",
@@ -195,7 +195,7 @@
       "cardinalDirection":"East",
       "floor":16,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 16",
@@ -205,7 +205,7 @@
       "cardinalDirection":"South",
       "floor":12,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 17",
@@ -215,7 +215,7 @@
       "cardinalDirection":"North East",
       "floor":11,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 18",
@@ -225,7 +225,7 @@
       "cardinalDirection":"East",
       "floor":6,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 19",
@@ -235,7 +235,7 @@
       "cardinalDirection":"East",
       "floor":5,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 20",
@@ -245,7 +245,7 @@
       "cardinalDirection":"South",
       "floor":20,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 21",
@@ -255,7 +255,7 @@
       "cardinalDirection":"South",
       "floor":16,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 22",
@@ -265,7 +265,7 @@
       "cardinalDirection":"None",
       "floor":78,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 23",
@@ -275,7 +275,7 @@
       "cardinalDirection":"North East",
       "floor":21,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 24",
@@ -285,7 +285,7 @@
       "cardinalDirection":"North East",
       "floor":22,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 25",
@@ -295,7 +295,7 @@
       "cardinalDirection":"North East",
       "floor":23,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 26",
@@ -305,7 +305,7 @@
       "cardinalDirection":"South",
       "floor":11,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 27",
@@ -315,7 +315,7 @@
       "cardinalDirection":"North",
       "floor":4,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 28",
@@ -325,7 +325,7 @@
       "cardinalDirection":"North",
       "floor":10,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 29",
@@ -335,7 +335,7 @@
       "cardinalDirection":"South",
       "floor":6,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 30",
@@ -345,7 +345,7 @@
       "cardinalDirection":"West",
       "floor":8,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 31",
@@ -355,7 +355,7 @@
       "cardinalDirection":"East",
       "floor":7,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 32",
@@ -365,7 +365,7 @@
       "cardinalDirection":"West",
       "floor":7,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 33",
@@ -375,7 +375,7 @@
       "cardinalDirection":"North",
       "floor":4,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 34",
@@ -385,7 +385,7 @@
       "cardinalDirection":"North",
       "floor":2,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 35",
@@ -395,7 +395,7 @@
       "cardinalDirection":"South",
       "floor":3,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 36",
@@ -405,7 +405,7 @@
       "cardinalDirection":"North",
       "floor":6,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 37",
@@ -415,7 +415,7 @@
       "cardinalDirection":"North",
       "floor":7,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 38",
@@ -425,7 +425,7 @@
       "cardinalDirection":"East",
       "floor":29,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 39",
@@ -435,7 +435,7 @@
       "cardinalDirection":"North",
       "floor":9,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 40",
@@ -445,7 +445,7 @@
       "cardinalDirection":"None",
       "floor":5,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 41",
@@ -455,7 +455,7 @@
       "cardinalDirection":"West",
       "floor":50,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 42",
@@ -465,7 +465,7 @@
       "cardinalDirection":"West",
       "floor":27,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 43",
@@ -475,7 +475,7 @@
       "cardinalDirection":"West",
       "floor":33,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 44",
@@ -485,7 +485,7 @@
       "cardinalDirection":"East",
       "floor":43,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 45",
@@ -495,7 +495,7 @@
       "cardinalDirection":"South West",
       "floor":34,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 46",
@@ -505,7 +505,7 @@
       "cardinalDirection":"East",
       "floor":23,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 47",
@@ -515,7 +515,7 @@
       "cardinalDirection":"East",
       "floor":38,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 48",
@@ -525,7 +525,7 @@
       "cardinalDirection":"South West",
       "floor":43,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 49",
@@ -535,7 +535,7 @@
       "cardinalDirection":"North West",
       "floor":36,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 50",
@@ -545,7 +545,7 @@
       "cardinalDirection":"North West",
       "floor":26,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 51",
@@ -555,7 +555,7 @@
       "cardinalDirection":"South",
       "floor":44,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 52",
@@ -565,7 +565,7 @@
       "cardinalDirection":"North",
       "floor":21,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 53",
@@ -575,7 +575,7 @@
       "cardinalDirection":"North West",
       "floor":25,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 54",
@@ -585,7 +585,7 @@
       "cardinalDirection":"North West",
       "floor":16,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 55",
@@ -595,7 +595,7 @@
       "cardinalDirection":"North West",
       "floor":6,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 56",
@@ -605,7 +605,7 @@
       "cardinalDirection":"None",
       "floor":10,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 57",
@@ -615,7 +615,7 @@
       "cardinalDirection":"North",
       "floor":19,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 58",
@@ -625,7 +625,7 @@
       "cardinalDirection":"South",
       "floor":10,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 59",
@@ -635,7 +635,7 @@
       "cardinalDirection":"East",
       "floor":38,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 60",
@@ -645,7 +645,7 @@
       "cardinalDirection":"North West",
       "floor":15,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 61",
@@ -655,7 +655,7 @@
       "cardinalDirection":"East",
       "floor":12,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 62",
@@ -665,7 +665,7 @@
       "cardinalDirection":"East",
       "floor":19,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 63",
@@ -675,7 +675,7 @@
       "cardinalDirection":"East",
       "floor":7,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 64",
@@ -685,7 +685,7 @@
       "cardinalDirection":"South East",
       "floor":11,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 65",
@@ -695,7 +695,7 @@
       "cardinalDirection":"N/A",
       "floor":2,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 66",
@@ -705,7 +705,7 @@
       "cardinalDirection":"East",
       "floor":23,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 67",
@@ -715,7 +715,7 @@
       "cardinalDirection":"East",
       "floor":17,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 68",
@@ -725,7 +725,7 @@
       "cardinalDirection":"North",
       "floor":13,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 69",
@@ -735,7 +735,7 @@
       "cardinalDirection":"East",
       "floor":8,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 70",
@@ -745,7 +745,7 @@
       "cardinalDirection":"West",
       "floor":4,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 71",
@@ -755,7 +755,7 @@
       "cardinalDirection":"South East",
       "floor":16,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 72",
@@ -765,7 +765,7 @@
       "cardinalDirection":"East",
       "floor":21,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 73",
@@ -775,7 +775,7 @@
       "cardinalDirection":"North West",
       "floor":50,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 74",
@@ -785,7 +785,7 @@
       "cardinalDirection":"North West",
       "floor":49,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 75",
@@ -795,7 +795,7 @@
       "cardinalDirection":"South",
       "floor":29,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 76",
@@ -805,7 +805,7 @@
       "cardinalDirection":"East",
       "floor":6,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 77",
@@ -815,7 +815,7 @@
       "cardinalDirection":"South",
       "floor":26,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 78",
@@ -825,7 +825,7 @@
       "cardinalDirection":"East",
       "floor":23,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 79",
@@ -835,7 +835,7 @@
       "cardinalDirection":"East",
       "floor":25,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 80",
@@ -845,7 +845,7 @@
       "cardinalDirection":"East",
       "floor":8,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 81",
@@ -855,7 +855,7 @@
       "cardinalDirection":"South",
       "floor":14,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 82",
@@ -865,7 +865,7 @@
       "cardinalDirection":"East",
       "floor":15,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 83",
@@ -875,7 +875,7 @@
       "cardinalDirection":"East",
       "floor":4,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 84",
@@ -885,7 +885,7 @@
       "cardinalDirection":"South",
       "floor":38,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    },
    {
       "name":"Potential 85",
@@ -895,6 +895,6 @@
       "cardinalDirection":"South",
       "floor":28,
       "meshHardware":"None",
-      "IPV6Addres":"None"
+      "IPV6Address":"None"
    }
-]
+}
