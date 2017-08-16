@@ -2,7 +2,7 @@
     "$schema": "http://json-schema.org/draft-04/schema#",
     "title": "Toronto Mesh Nodes",
     "type": "array",
-    "nodes": {
+    "items": {
         "title": "Node Detail",
         "type": "object",
         "properties": {
@@ -27,7 +27,8 @@
                 "enum": ["proposed", "active"]
             },            
             "dateAdded": {
-                 "type": "date-time"
+                 "type": "date-time",
+                 "format": "date-time"
             },
         "required": ["name", "latitude", "longitude", "cardinalDirection", "status", "dateAdded"]
         }
