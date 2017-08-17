@@ -1,0 +1,36 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Toronto Mesh Nodes",
+    "type": "array",
+    "items": {
+        "title": "Node Detail",
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "string"
+            },
+            "latitude": {
+                "type": "number"
+            },
+            "longitude": {
+                "type": "number"
+            },
+            "cardinalDirection": {
+                "type": "string",
+                "enum": ["North", "North East", "East", "South East", "South", "South West", "West", "North West", "Omni"]
+            },
+            "IPV6Address": {
+                "type": "string"
+            },
+            "status": {
+                "type": "string",
+                "enum": ["proposed", "active"]
+            },            
+            "dateAdded": {
+                 "type": "date-time",
+                 "format": "date-time"
+            },
+        "required": ["name", "latitude", "longitude", "cardinalDirection", "status", "dateAdded"]
+        }
+    }
+}
