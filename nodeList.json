@@ -763,10 +763,8 @@
       "name":"E-Mesh",
       "latitude":43.68306736430572,
       "longitude":-79.52565314047547,
-      "onlineStatus":"Online",
       "cardinalDirection":"North",
       "floor":"13",
-      "meshHardware":"Orange Pi ZERO WN722N",
       "IPV6Address":"fcc0:a4af:4174:4bc6:478:2087:ec63:85",
       "status":"active",
       "dateAdded":"2017-08-15T00:00:00.0Z"
@@ -775,7 +773,6 @@
       "name":"benhylau",
       "latitude":43.63518200000000,
       "longitude":-79.40201470000000,
-      "onlineStatus":"Online",
       "cardinalDirection":"South",
       "floor":"1",
       "IPV6Address":"h.groundupworks.com",
@@ -786,9 +783,7 @@
       "name":"Willowdale Mesh",
       "latitude":43.7706731,
       "longitude":-79.41496110000003,
-      "onlineStatus":"Offline",
       "cardinalDirection":"East",
-      "floor":0,
       "status":"proposed",
       "dateAdded":"2017-08-15T00:00:00.0Z"
    }
