@@ -34,7 +34,6 @@
       "latitude":43.659564,
       "longitude":-79.382989,
       "onlineStatus":"Offline",
-      "cardinalDirection":"None",
       "floor":8,
       "status":"proposed",
       "dateAdded":"2017-08-15T00:00:00.0Z"
@@ -124,7 +123,6 @@
       "latitude":43.643846,
       "longitude":-79.391824,
       "onlineStatus":"Offline",
-      "cardinalDirection":"None",
       "floor":2,
       "status":"proposed",
       "dateAdded":"2017-08-15T00:00:00.0Z"
@@ -214,7 +212,6 @@
       "latitude":43.659534,
       "longitude":-79.382825,
       "onlineStatus":"Offline",
-      "cardinalDirection":"None",
       "floor":78,
       "status":"proposed",
       "dateAdded":"2017-08-15T00:00:00.0Z"
@@ -394,7 +391,6 @@
       "latitude":43.646874,
       "longitude":-79.371078,
       "onlineStatus":"Offline",
-      "cardinalDirection":"None",
       "floor":5,
       "status":"proposed",
       "dateAdded":"2017-08-15T00:00:00.0Z"
@@ -554,7 +550,6 @@
       "latitude":43.654455,
       "longitude":-79.37921,
       "onlineStatus":"Offline",
-      "cardinalDirection":"None",
       "floor":10,
       "status":"proposed",
       "dateAdded":"2017-08-15T00:00:00.0Z"
