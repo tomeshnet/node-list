@@ -5,6 +5,7 @@
     "items": {
         "title": "Node Detail",
         "type": "object",
+        "required": ["name", "latitude", "longitude", "status", "dateAdded"],
         "properties": {
             "name": {
                 "type": "string"
@@ -29,8 +30,7 @@
             "dateAdded": {
                  "type": "date-time",
                  "format": "date-time"
-            },
-        "required": ["name", "latitude", "longitude", "status", "dateAdded"]
+            }
         }
     }
 }
