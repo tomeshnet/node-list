@@ -30,7 +30,7 @@
                  "type": "date-time",
                  "format": "date-time"
             },
-        "required": ["name", "latitude", "longitude", "cardinalDirection", "status", "dateAdded"]
+        "required": ["name", "latitude", "longitude", "status", "dateAdded"]
         }
     }
 }
