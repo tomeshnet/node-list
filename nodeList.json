@@ -795,5 +795,15 @@
       "floor": 3,
       "IPV6Address":"north-york-gw.darkdrgn2k.h.e-mesh.net",
       "dateAdded": "2017-08-30T20:30:06.867Z"
-   }
+   },
+   {
+      "name": "Danforth Node",
+      "latitude": 43.68145112230573,
+      "longitude":-79.35173795468143,
+      "cardinalDirection": "Omni",
+      "floor": 2,
+      "IPV6Address":"fc26:285:8e4b:eecd:d:d22e:30e3:2758",
+      "dateAdded": "2017-10-27T00:33:37.574Z"
+}
+
 ]
