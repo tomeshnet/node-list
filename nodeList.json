@@ -759,15 +759,35 @@
       "dateAdded":"2017-08-15T00:00:00.0Z"
    },
    {
-      "name":"E-Mesh",
+      "name":"E-Mesh OPI",
       "latitude":43.68306736430572,
       "longitude":-79.52565314047547,
-      "cardinalDirection":"North",
+      "cardinalDirection":"Omni",
       "floor":"13",
       "IPV6Address":"fcc0:a4af:4174:4bc6:478:2087:ec63:85",
       "status":"active",
       "dateAdded":"2017-08-15T00:00:00.0Z"
    },
+   {
+      "name": "E-Mesh GW",
+      "latitude": 43.68300993269396,
+      "longitude":-79.52563361174396,
+      "status":"active",
+      "cardinalDirection": "Omni",
+      "floor": 13,
+      "IPV6Address":"fc24:c6b1:ceb2:5cd1:142e:5fa1:6051:e099",
+      "dateAdded": "2017-10-28T02:46:59.223Z"
+   },
+   {
+      "name":"E-Mesh Balcony",
+      "latitude":43.68306736430572,
+      "longitude":-79.52565314047547,
+      "cardinalDirection":"North",
+      "floor":"13",
+      "status":"proposed",
+      "dateAdded":"2017-08-15T00:00:00.0Z"
+   },
+
    {
       "name":"benhylau",
       "latitude":43.63518200000000,
@@ -790,11 +810,21 @@
       "name": "E-Mesh North York GW",
       "latitude": 43.77966238349766,
       "longitude":-79.34211684973752,
-      "cardinalDirection": "West",
+      "cardinalDirection": "Omni",
       "status":"active",
       "floor": 3,
       "IPV6Address":"north-york-gw.darkdrgn2k.h.e-mesh.net",
       "dateAdded": "2017-08-30T20:30:06.867Z"
+   },
+   {
+      "name": "Westmount Node",
+      "latitude": 43.68858897327703,
+      "longitude": -79.51539830214313,
+      "cardinalDirection": "Omni",
+      "status":"active",
+      "IPV6Address":"fc58:30df:d758:5c92:dba3:5916:b4ef:b274",
+      "floor": 1,
+      "dateAdded": "2017-10-28T16:58:11.735Z"
    },
    {
       "name": "Danforth Node",
@@ -805,6 +835,35 @@
       "floor": 2,
       "IPV6Address":"fc26:285:8e4b:eecd:d:d22e:30e3:2758",
       "dateAdded": "2017-10-27T00:33:37.574Z"
-}
-
+   },
+   {
+      "name": "Datacenter Peer",
+      "latitude": 43.644728204426315,
+      "longitude":-79.38400492913058,
+      "cardinalDirection": "Omni",
+      "status":"active",
+      "IPV6Address":"fc4d:c8e5:9efe:9ac2:8e72:fcf7:6ce8:39dc",
+      "floor": 1,
+      "dateAdded": "2017-10-28T02:34:57.023Z"
+   },
+   {
+      "name": "Datacenter Peer",
+      "latitude": 43.644728204426315,
+      "longitude":-79.38400492913058,
+      "cardinalDirection": "Omni",
+      "status":"active",
+      "IPV6Address":"fc6e:691e:dfaa:b992:a10a:7b49:5a1a:5e09",
+      "floor": 1,
+      "dateAdded": "2017-10-28T02:34:57.023Z"
+   },
+   {
+      "name": "dasanchez",
+      "latitude": 43.9705197,
+      "longitude":-79.23860079999997,
+      "cardinalDirection": "West",
+      "floor": 2,
+      "status":"active",
+      "IPV6Address":"fcbd:efb3:a9a0:a356:6064:4848:1483:8985",
+      "dateAdded": "2017-10-30T01:33:24.703Z"
+   }
 ]
