@@ -769,12 +769,12 @@
       "dateAdded":"2017-08-15T00:00:00.0Z"
    },
    {
-      "name":"benhylau",
-      "latitude":43.63518200000000,
-      "longitude":-79.40201470000000,
-      "cardinalDirection":"South",
+      "name":"h.groundupworks.com",
+      "latitude":43.6508542,
+      "longitude":-79.36195099999998,
+      "cardinalDirection":"Omni",
       "floor":"1",
-      "IPV6Address":"h.groundupworks.com",
+      "IPV6Address":"fcaa:5785:a537:90db:6513:bba9:87a0:12a7",
       "status":"active",
       "dateAdded":"2017-08-15T00:00:00.0Z"
    },
@@ -805,6 +805,25 @@
       "floor": 2,
       "IPV6Address":"fc26:285:8e4b:eecd:d:d22e:30e3:2758",
       "dateAdded": "2017-10-27T00:33:37.574Z"
-}
-
+   },
+   {
+      "name": "Atlas",
+      "latitude": 43.678136,
+      "longitude":-79.397593,
+      "cardinalDirection": "Omni",
+      "status":"active",
+      "floor": 1,
+      "IPV6Address":"fc5b:bb10:8c59:c651:870e:32f5:1b0e:45e9",
+      "dateAdded": "2017-11-01T05:57:31.405Z"
+   },
+   {
+      "name": "Pleione",
+      "latitude": 43.678136,
+      "longitude":-79.397593,
+      "cardinalDirection": "Omni",
+      "status":"active",
+      "floor": 1,
+      "IPV6Address":"fc10:d07a:3146:d742:eee3:c30d:0c31:6389",
+      "dateAdded": "2017-11-01T05:57:31.405Z"
+   }
 ]
