@@ -808,8 +808,8 @@
    },
    {
       "name": "Atlas",
-      "latitude": 43.678136,
-      "longitude":-79.397593,
+      "latitude": 43.63514511635013,
+      "longitude":-79.40157749993057,
       "cardinalDirection": "Omni",
       "status":"active",
       "floor": 1,
@@ -818,8 +818,8 @@
    },
    {
       "name": "Pleione",
-      "latitude": 43.678136,
-      "longitude":-79.397593,
+      "latitude": 43.63514511635013,
+      "longitude":-79.40157749993057,
       "cardinalDirection": "Omni",
       "status":"active",
       "floor": 1,
@@ -828,8 +828,8 @@
    },
       {
       "name": "Maia",
-      "latitude": 43.678136,
-      "longitude":-79.397593,
+      "latitude": 43.63514511635013,
+      "longitude":-79.40157749993057,
       "cardinalDirection": "Omni",
       "status":"active",
       "floor": 1,
