@@ -808,8 +808,8 @@
    },
    {
       "name": "Atlas",
-      "latitude": 43.678136,
-      "longitude":-79.397593,
+      "latitude": 43.63514511635013,
+      "longitude":-79.40157749993057,
       "cardinalDirection": "Omni",
       "status":"active",
       "floor": 1,
@@ -818,12 +818,22 @@
    },
    {
       "name": "Pleione",
-      "latitude": 43.678136,
-      "longitude":-79.397593,
+      "latitude": 43.63514511635013,
+      "longitude":-79.40157749993057,
       "cardinalDirection": "Omni",
       "status":"active",
       "floor": 1,
       "IPV6Address":"fc10:d07a:3146:d742:eee3:c30d:0c31:6389",
       "dateAdded": "2017-11-01T05:57:31.405Z"
+   },
+      {
+      "name": "Maia",
+      "latitude": 43.63514511635013,
+      "longitude":-79.40157749993057,
+      "cardinalDirection": "Omni",
+      "status":"active",
+      "floor": 1,
+      "IPV6Address":"fc92:f7c9:e244:cf7f:fc02:e2ba:9ca7:2873",
+      "dateAdded": "2017-11-02T05:57:31.405Z"
    }
 ]
