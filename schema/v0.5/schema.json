@@ -21,7 +21,8 @@
                 "enum": ["North", "North East", "East", "South East", "South", "South West", "West", "North West", "Omni"]
             },
             "IPV6Address": {
-                "type": "string"
+                "type": "string",
+                "format": "ipv6"
             },
             "status": {
                 "type": "string",
