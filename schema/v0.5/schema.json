@@ -18,7 +18,7 @@
             },
             "cardinalDirection": {
                 "type": "string",
-                "enum": ["North", "North East", "East", "South East", "South", "South West", "West", "North West", "Omni"]
+                "enum": ["North", "North East", "East", "South East", "South", "South West", "West", "North West", "Omni", "None"]
             },
             "cardinalDirectionAntenna": {
                 "type": "string",
