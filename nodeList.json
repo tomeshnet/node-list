@@ -783,7 +783,7 @@
       "name":"h.groundupworks.com",
       "latitude":43.6508542,
       "longitude":-79.36195099999998,
-      "cardinalDirectionAntenna":"Omni",
+      "cardinalDirection":"None",
       "floor":"1",
       "IPV6Address":"fcaa:5785:a537:90db:6513:bba9:87a0:12a7",
       "status":"active",
