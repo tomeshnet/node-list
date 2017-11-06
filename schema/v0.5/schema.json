@@ -20,6 +20,10 @@
                 "type": "string",
                 "enum": ["North", "North East", "East", "South East", "South", "South West", "West", "North West", "Omni"]
             },
+            "cardinalDirectionAntenna": {
+                "type": "string",
+                "enum": ["North", "North East", "East", "South East", "South", "South West", "West", "North West", "Omni"]
+            },
             "IPV6Address": {
                 "type": "string",
                 "format": "ipv6"
@@ -27,7 +31,7 @@
             "status": {
                 "type": "string",
                 "enum": ["proposed", "active"]
-            },            
+            },
             "dateAdded": {
                  "type": "date-time",
                  "format": "date-time"
