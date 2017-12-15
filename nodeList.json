@@ -770,13 +770,13 @@
       "dateAdded":"2017-08-15T00:00:00.0Z"
    },
    {
-      "name": "E-Mesh GW",
+      "name": "E-Mesh Atom",
       "latitude": 43.68300993269396,
       "longitude":-79.52563361174396,
       "status":"active",
       "cardinalDirectionAntenna": "Omni",
       "floor": 13,
-      "IPV6Address":"fc24:c6b1:ceb2:5cd1:142e:5fa1:6051:e099",
+      "IPV6Address":"fc5e:44cd:6af4:4afc:cc4e:a75c:89a5:8d23",
       "dateAdded": "2017-10-28T02:46:59.223Z"
    },
    {
