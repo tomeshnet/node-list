@@ -879,7 +879,7 @@
       "IPV6Address":"fc10:d07a:3146:d742:eee3:c30d:0c31:6389",
       "dateAdded": "2017-11-01T05:57:31.405Z"
    },
-      {
+   {
       "name": "Maia",
       "latitude": 43.63514511635013,
       "longitude":-79.40157749993057,
@@ -888,5 +888,25 @@
       "floor": 1,
       "IPV6Address":"fc92:f7c9:e244:cf7f:fc02:e2ba:9ca7:2873",
       "dateAdded": "2017-11-02T05:57:31.405Z"
+   },
+   {
+      "name": "Ubiqity Test Node 1",
+      "latitude": 43.683083567154945,
+      "longitude":-79.52566445714763,
+      "cardinalDirection": "East",
+      "floor": 13,
+      "status": "active",
+      "IPV6Address":"fcb9:3042:f563:9fc4:f331:e512:1ea5:d5cd",
+      "dateAdded": "2017-12-15T04:48:00.959Z"
+   },
+   {
+      "name": "Ubiqity Test Node 2",
+      "latitude": 43.684755561834486,
+      "longitude":-79.52169478780559,
+      "cardinalDirection": "West",
+      "floor": 11,
+      "status": "active",
+      "IPV6Address":"fc04:8b29:9889:cf83:088c:80fc:9e3b:78b4",      
+      "dateAdded": "2017-12-15T04:47:35.038Z"
    }
 ]
