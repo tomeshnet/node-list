@@ -896,7 +896,7 @@
       "cardinalDirection": "East",
       "floor": 13,
       "status": "active",
-      "ipv6address":"fcb9:3042:f563:9fc4:f331:e512:1ea5:d5cd",
+      "IPV6Address":"fcb9:3042:f563:9fc4:f331:e512:1ea5:d5cd",
       "dateAdded": "2017-12-15T04:48:00.959Z"
    },
    {
@@ -906,6 +906,7 @@
       "cardinalDirection": "West",
       "floor": 11,
       "status": "active",
+      "IPV6Address":"fc3b:e80b:a458:1941:a67b:e5da:6e46:957a",      
       "dateAdded": "2017-12-15T04:47:35.038Z"
    }
 ]
