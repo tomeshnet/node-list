@@ -908,5 +908,25 @@
       "status": "active",
       "IPV6Address":"fc04:8b29:9889:cf83:88c:80fc:9e3b:78b4",      
       "dateAdded": "2017-12-15T04:47:35.038Z"
+   },
+   {
+      "name": "Ubiqity Test Node 4",
+      "latitude": 43.683083567154945,
+      "longitude":-79.52566445714763,
+      "cardinalDirection": "East",
+      "floor": 13,
+      "status": "active",
+      "IPV6Address":"fc14:e87c:87db:fcd0:f03b:5277:b214:15e2",
+      "dateAdded": "2017-12-15T04:48:00.959Z"
+   },
+   {
+      "name": "Ubiqity Test Node 3",
+      "latitude": 43.684755561834486,
+      "longitude":-79.52169478780559,
+      "cardinalDirection": "West",
+      "floor": 11,
+      "status": "active",
+      "IPV6Address":"fc96:4b5d:737e:a773:6a71:7035:4e1d:4d25",      
+      "dateAdded": "2017-12-15T04:47:35.038Z"
    }
 ]
