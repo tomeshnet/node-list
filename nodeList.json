@@ -917,7 +917,7 @@
       "floor": 13,
       "status": "active",
       "IPV6Address":"fc14:e87c:87db:fcd0:f03b:5277:b214:15e2",
-      "dateAdded": "2017-12-15T04:48:00.959Z"
+      "dateAdded": "2017-12-31T03:07:12.181Z"
    },
    {
       "name": "Ubiqity Test Node 3",
@@ -927,6 +927,6 @@
       "floor": 11,
       "status": "active",
       "IPV6Address":"fc96:4b5d:737e:a773:6a71:7035:4e1d:4d25",      
-      "dateAdded": "2017-12-15T04:47:35.038Z"
+      "dateAdded": "2017-12-31T03:07:12.181Z"
    }
 ]
