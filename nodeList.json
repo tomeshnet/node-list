@@ -888,5 +888,14 @@
       "floor": 1,
       "IPV6Address":"fc92:f7c9:e244:cf7f:fc02:e2ba:9ca7:2873",
       "dateAdded": "2017-11-02T05:57:31.405Z"
+   },
+   {
+     "name": "Free Geek Toronto",
+     "latitude": 43.641920944151614,
+     "longitude":-79.4252866754631,
+     "cardinalDirection": "Omni",
+     "floor": 1,
+     "status": "active",
+     "dateAdded": "2018-04-19T23:52:59.804Z"
    }
 ]
