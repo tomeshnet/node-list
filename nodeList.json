@@ -896,6 +896,7 @@
      "cardinalDirection": "Omni",
      "floor": 1,
      "status": "active",
+     "IPV6Address":"fcc5:480e:20d6:dd89:12e1:19f8:23b9:f6ab",
      "dateAdded": "2018-04-19T23:52:59.804Z"
    }
 ]
