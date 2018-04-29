@@ -29,5 +29,10 @@
      "status": "active",
      "IPV6Address":"fc39:85a5:dd3d:58ee:6937:21a0:8846:d4e",
      "dateAdded": "2018-04-19T23:52:59.804Z"
+   },
+   {
+     "status": "active",
+     "IPV6Address":"fc13:638:82bf:21fd:b5a4:7b77:bc04:206e",
+     "dateAdded": "2018-04-19T23:52:59.804Z"      
    }
 ]
