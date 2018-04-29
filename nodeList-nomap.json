@@ -1,0 +1,33 @@
+[
+   {
+     "status": "active",
+     "IPV6Address":"fc62:e542:f7e0:9381:8496:1327:7610:8668",
+     "dateAdded": "2018-04-19T23:52:59.804Z"
+   },
+
+   {
+     "status": "active",
+     "IPV6Address":"fc46:671f:c1de:8ec5:99e7:9c3f:fcc6:1458",
+     "dateAdded": "2018-04-19T23:52:59.804Z"
+   },
+   {
+     "status": "active",
+     "IPV6Address":"fcbd:fc99:c9e0:8561:9b2:974a:101:f7c4",
+     "dateAdded": "2018-04-19T23:52:59.804Z"
+   },
+   {
+     "status": "active",
+     "IPV6Address":"fc4c:fcc7:a02f:61cc:7d0:1cef:504f:a0b8",
+     "dateAdded": "2018-04-19T23:52:59.804Z"
+   },
+   {
+     "status": "active",
+     "IPV6Address":"fc49:9c97:515f:3225:5efe:2be9:6fe5:f088",
+     "dateAdded": "2018-04-19T23:52:59.804Z"
+   },
+   {
+     "status": "active",
+     "IPV6Address":"fc39:85a5:dd3d:58ee:6937:21a0:8846:d4e",
+     "dateAdded": "2018-04-19T23:52:59.804Z"
+   }
+]
