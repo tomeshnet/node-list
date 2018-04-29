@@ -49,6 +49,12 @@
      "name":"aseriesoftubez-168e",
      "status": "active",
      "IPV6Address":"fc41:47b9:dd78:ff21:1b24:dab8:3f81:168e",
-     "dateAdded": "2018-04-19T23:52:59.804Z"      
+     "dateAdded": "2018-04-29T23:52:59.804Z"      
+   },
+   {
+     "name":"aseriesoftubez-2175",
+     "status": "active",
+     "IPV6Address":"fc05:1f85:84e5:681b:c42b:792b:b696:2175",
+     "dateAdded": "2018-04-29T23:52:59.804Z"      
    }
 ]
