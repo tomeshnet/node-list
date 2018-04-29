@@ -44,5 +44,11 @@
      "status": "active",
      "IPV6Address":"fc13:638:82bf:21fd:b5a4:7b77:bc04:206e",
      "dateAdded": "2018-04-19T23:52:59.804Z"      
+   },
+   {
+     "name":"aseriesoftubez-168e",
+     "status": "active",
+     "IPV6Address":"fc41:47b9:dd78:ff21:1b24:dab8:3f81:168e",
+     "dateAdded": "2018-04-19T23:52:59.804Z"      
    }
 ]
