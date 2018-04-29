@@ -1,10 +1,16 @@
 [
    {     
+     "name": "espresso ipfs",
+     "status": "active",
+     "IPV6Address":"fc1f:391f:fc0e:aabb:34a9:790c:35e6:e47a",
+     "dateAdded": "2018-04-19T23:52:59.804Z"
+   },   
+   {     
+     "name": "rpi stream",
      "status": "active",
      "IPV6Address":"fc62:e542:f7e0:9381:8496:1327:7610:8668",
      "dateAdded": "2018-04-19T23:52:59.804Z"
    },
-
    {
      "status": "active",
      "IPV6Address":"fc46:671f:c1de:8ec5:99e7:9c3f:fcc6:1458",
