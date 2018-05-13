@@ -5,33 +5,10 @@
      "IPV6Address":"fc1f:391f:fc0e:aabb:34a9:790c:35e6:e47a",
      "dateAdded": "2018-04-19T23:52:59.804Z"
    },   
-   {     
-     "name": "rpi stream",
-     "status": "active",
-     "IPV6Address":"fc62:e542:f7e0:9381:8496:1327:7610:8668",
-     "dateAdded": "2018-04-19T23:52:59.804Z"
-   },
-   {
-      "name":"testnet 59cd",
-     "status": "active",
-     "IPV6Address":"fc49:13ec:4141:5ccc:d8fc:36c1:19a1:59cd",
-     "dateAdded": "2018-04-19T23:52:59.804Z"
-   },
-   {
-     "status": "active",
-     "IPV6Address":"fc46:671f:c1de:8ec5:99e7:9c3f:fcc6:1458",
-     "dateAdded": "2018-04-19T23:52:59.804Z"
-   },
    {
      "name":"testnet f7c4",
      "status": "active",
      "IPV6Address":"fcbd:fc99:c9e0:8561:9b2:974a:101:f7c4",
-     "dateAdded": "2018-04-19T23:52:59.804Z"
-   },
-   {
-     "name":"testnet a0b8",
-     "status": "active",
-     "IPV6Address":"fc4c:fcc7:a02f:61cc:7d0:1cef:504f:a0b8",
      "dateAdded": "2018-04-19T23:52:59.804Z"
    },
    {
@@ -58,13 +35,13 @@
      "dateAdded": "2018-04-19T23:52:59.804Z"      
    },
    {
-     "name":"aseriesoftubez-168e",
+     "name":"tubez-168e",
      "status": "active",
      "IPV6Address":"fc41:47b9:dd78:ff21:1b24:dab8:3f81:168e",
      "dateAdded": "2018-04-29T23:52:59.804Z"      
    },
    {
-     "name":"aseriesoftubez-2175",
+     "name":"tubez-2175",
      "status": "active",
      "IPV6Address":"fc05:1f85:84e5:681b:c42b:792b:b696:2175",
      "dateAdded": "2018-04-29T23:52:59.804Z"      
