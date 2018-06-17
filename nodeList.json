@@ -770,16 +770,6 @@
       "dateAdded":"2017-08-15T00:00:00.0Z"
    },
    {
-      "name": "E-Mesh Atom",
-      "latitude": 43.68300993269396,
-      "longitude":-79.52563361174396,
-      "status":"active",
-      "cardinalDirectionAntenna": "Omni",
-      "floor": 13,
-      "IPV6Address":"fc5e:44cd:6af4:4afc:cc4e:a75c:89a5:8d23",
-      "dateAdded": "2017-10-28T02:46:59.223Z"
-   },
-   {
       "name":"h.groundupworks.com",
       "latitude":43.6508542,
       "longitude":-79.36195099999998,
@@ -819,16 +809,6 @@
       "dateAdded": "2017-10-28T16:58:11.735Z"
    },
    {
-      "name": "Danforth Node",
-      "latitude": 43.68145112230573,
-      "longitude":-79.35173795468143,
-      "cardinalDirectionAntenna": "Omni",
-      "status":"active",
-      "floor": 2,
-      "IPV6Address":"fc26:285:8e4b:eecd:d:d22e:30e3:2758",
-      "dateAdded": "2017-10-27T00:33:37.574Z"
-   },
-   {
       "name": "Datacenter Peer",
       "latitude": 43.644728204426315,
       "longitude":-79.38400492913058,
@@ -858,36 +838,6 @@
       "status":"active",
       "IPV6Address":"fc52:b22c:0b85:f371:24ab:4572:90b1:d926",
       "dateAdded": "2017-10-30T01:33:24.703Z"
-   },
-   {
-      "name": "Atlas",
-      "latitude": 43.63514511635013,
-      "longitude":-79.40157749993057,
-      "cardinalDirectionAntenna": "Omni",
-      "status":"active",
-      "floor": 1,
-      "IPV6Address":"fc5b:bb10:8c59:c651:870e:32f5:1b0e:45e9",
-      "dateAdded": "2017-11-01T05:57:31.405Z"
-   },
-   {
-      "name": "Pleione",
-      "latitude": 43.63514511635013,
-      "longitude":-79.40157749993057,
-      "cardinalDirectionAntenna": "Omni",
-      "status":"active",
-      "floor": 1,
-      "IPV6Address":"fc10:d07a:3146:d742:eee3:c30d:0c31:6389",
-      "dateAdded": "2017-11-01T05:57:31.405Z"
-   },
-   {
-      "name": "Maia",
-      "latitude": 43.63514511635013,
-      "longitude":-79.40157749993057,
-      "cardinalDirectionAntenna": "Omni",
-      "status":"active",
-      "floor": 1,
-      "IPV6Address":"fc92:f7c9:e244:cf7f:fc02:e2ba:9ca7:2873",
-      "dateAdded": "2017-11-02T05:57:31.405Z"
    },
    {
      "name": "Free Geek Toronto",
