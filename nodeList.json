@@ -89,5 +89,23 @@
      "status": "active",
      "IPV6Address":"fcc5:480e:20d6:dd89:12e1:19f8:23b9:f6ab",
      "dateAdded": "2018-04-19T23:52:59.804Z"
+   },
+   {
+     "name": "Mariner1",
+     "latitude": 43.6396694,
+     "longitude":-79.39208880000001,
+     "cardinalDirection": "East",
+     "floor": 0,
+     "status": "proposed",
+     "dateAdded": "2018-07-25T00:58:43.948Z"
+   },
+   {
+     "name": "Bremner1",
+     "latitude": 43.6428614,
+     "longitude":-79.38073199999997,
+     "cardinalDirection": "East",
+     "floor": 50,
+     "status": "proposed",
+     "dateAdded": "2018-07-25T00:59:24.713Z"
    }
 ]
