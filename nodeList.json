@@ -94,7 +94,7 @@
      "name": "Mariner1",
      "latitude": 43.6396694,
      "longitude":-79.39208880000001,
-     "cardinalDirection": "East",
+     "cardinalDirection": "North East",
      "floor": 0,
      "status": "proposed",
      "dateAdded": "2018-07-25T00:58:43.948Z"
@@ -103,7 +103,7 @@
      "name": "Bremner1",
      "latitude": 43.6428614,
      "longitude":-79.38073199999997,
-     "cardinalDirection": "East",
+     "cardinalDirection": "West",
      "floor": 50,
      "status": "proposed",
      "dateAdded": "2018-07-25T00:59:24.713Z"
