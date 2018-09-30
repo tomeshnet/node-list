@@ -857,6 +857,7 @@
      "cardinalDirectionAntenna": "Omni",
      "floor": 3,
      "status": "active",
+     "IPV6Address":"fc53:3f29:c2d4:e89b:dc27:8f4e:efb4:bfa7",
      "dateAdded": "2018-09-30T12:51:48.936Z"
    }
 ]
