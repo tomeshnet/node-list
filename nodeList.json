@@ -848,5 +848,15 @@
      "status": "active",
      "IPV6Address":"fcc5:480e:20d6:dd89:12e1:19f8:23b9:f6ab",
      "dateAdded": "2018-04-19T23:52:59.804Z"
+   },
+   {
+     "name": "mesh-bridlewood",
+     "latitude": 43.7956074,
+     "longitude":-79.32741190000002,
+      "cardinalDirection": "East",
+      "cardinalDirectionAntenna": "Omni",
+     "floor": 3,
+     "status": "active",
+     "dateAdded": "2018-09-30T12:51:48.936Z"
    }
 ]
