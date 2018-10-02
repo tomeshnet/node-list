@@ -57,5 +57,17 @@
      "status": "active",
      "IPV6Address":"fc46:671f:c1de:8ec5:99e7:9c3f:fcc6:1458",
      "dateAdded": "2018-05-07T00:19:00.000Z"
+   },
+   {
+     "name":"e3a2",
+     "status": "active",
+     "IPV6Address":"fc6e:f50:40c9:dcbf:5f45:c0db:57f4:e3a2",
+     "dateAdded": "2018-10-02T00:19:00.000Z"
+   },
+   {
+     "name":"7c4d",
+     "status": "active",
+     "IPV6Address":"fca8:8ef4:ad3b:c982:a807:889a:c1ef:7c4d",
+     "dateAdded": "2018-10-02T00:19:00.000Z"
    }
 ]
