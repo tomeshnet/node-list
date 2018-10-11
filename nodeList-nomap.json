@@ -69,5 +69,11 @@
      "status": "active",
      "IPV6Address":"fca8:8ef4:ad3b:c982:a807:889a:c1ef:7c4d",
      "dateAdded": "2018-10-02T00:19:00.000Z"
-   }
+   },
+   {
+     "name":"hackeriet-1832",
+     "status": "active",
+     "IPV6Address":"fca3:2473:d82f:5119:8ea:38b5:ae40:1832",
+     "dateAdded": "2018-10-02T00:19:00.000Z"
+   }  
 ]
