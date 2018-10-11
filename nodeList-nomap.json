@@ -1,30 +1,6 @@
 [
-   {     
-     "name": "testnet ipfs",
-     "status": "active",
-     "IPV6Address":"fc1f:391f:fc0e:aabb:34a9:790c:35e6:e47a",
-     "dateAdded": "2018-04-19T23:52:59.804Z"
-   },   
    {
-     "name":"testnet f7c4",
-     "status": "active",
-     "IPV6Address":"fcbd:fc99:c9e0:8561:9b2:974a:101:f7c4",
-     "dateAdded": "2018-04-19T23:52:59.804Z"
-   },
-   {
-     "name":"testnet f088",      
-     "status": "active",
-     "IPV6Address":"fc49:9c97:515f:3225:5efe:2be9:6fe5:f088",
-     "dateAdded": "2018-04-19T23:52:59.804Z"
-   },
-   {
-     "name":"testnet d4e",
-     "status": "active",
-     "IPV6Address":"fc39:85a5:dd3d:58ee:6937:21a0:8846:d4e",
-     "dateAdded": "2018-04-19T23:52:59.804Z"
-   },
-   {
-     "name":"EXIT1",
+     "name":"emesh-EXIT1",
      "status": "active",
      "IPV6Address":"fcbb:3e34:cdfe:9e99:cb34:c3a3:1604:9955",
      "dateAdded": "2018-06-29T23:52:59.804Z"
