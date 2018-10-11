@@ -75,5 +75,11 @@
      "status": "active",
      "IPV6Address":"fca3:2473:d82f:5119:8ea:38b5:ae40:1832",
      "dateAdded": "2018-10-11T00:19:00.000Z"
-   }  
+   },
+   {
+     "name":"dugnadsnett-fba4",
+     "status": "active",
+     "IPV6Address":"fc3a:005d:8787:f878:2cb1:f110:01ee:fba4",
+     "dateAdded": "2018-10-11T00:19:00.000Z"
+   },
 ]
