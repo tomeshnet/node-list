@@ -794,7 +794,7 @@
       "cardinalDirectionAntenna": "Omni",
       "cardinalDirection": "West",
       "status":"active",
-      "floor": 3,
+      "floor": 0,
       "IPV6Address":"fc34:565a:966f:61e5:1c43:4775:ca8b:8583",
       "dateAdded": "2017-08-30T20:30:06.867Z"
    },
