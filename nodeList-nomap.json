@@ -53,9 +53,11 @@
      "dateAdded": "2018-10-11T00:19:00.000Z"
    },
    {
-     "name":"dugnadsnett-fba4",
+     "name":"massmesh-f173",
      "status": "active",
-     "IPV6Address":"fc3a:005d:8787:f878:2cb1:f110:01ee:fba4",
-     "dateAdded": "2018-10-11T00:19:00.000Z"
+     "IPV6Address":"fc50:1800:544:5569:23c3:1b43:20c0:f173",
+     "dateAdded": "2018-12-04T00:00:00.000Z",
+     "contact": "Stephen304"
    }
+
 ]
