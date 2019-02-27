@@ -72,5 +72,12 @@
      "IPV6Address":"fc88:5d66:b3b6:1b36:99e2:3186:57ee:7c63",
      "dateAdded": "2019-02-27T10:00:48.936Z",
      "contact": "Turco32"      
+   },
+   {
+     "name":"bridlewood-ff85",
+     "status": "active",
+     "IPV6Address":"fcdc:586:91ce:ba9e:3e5c:d18e:876a:ff85",
+     "dateAdded": "2019-02-27T13:00:48.936Z",
+     "contact": "Turco32"      
    }
 ]
