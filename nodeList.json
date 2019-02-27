@@ -850,15 +850,16 @@
      "dateAdded": "2018-04-19T23:52:59.804Z"
    },
    {
-     "name": "mesh-bridlewood",
+     "name": "bridlewood-2a13",
      "latitude": 43.7956074,
      "longitude":-79.32741190000002,
      "cardinalDirection": "East",
      "cardinalDirectionAntenna": "Omni",
      "floor": 3,
      "status": "active",
-     "IPV6Address":"fc53:3f29:c2d4:e89b:dc27:8f4e:efb4:bfa7",
-     "dateAdded": "2018-09-30T12:51:48.936Z"
+     "IPV6Address":"fc5a:dc78:698d:2929:9b09:46b:d358:2a13",
+     "dateAdded": "2019-02-27T10:00:48.936Z",
+     "contat": "Turco32"
    },
    {
      "name": "Skymark",
