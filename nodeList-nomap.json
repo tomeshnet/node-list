@@ -60,11 +60,17 @@
      "contact": "Turco32"
    },
    {
+     "name":"bridlewood-fcdc",
+     "status": "active",
+     "IPV6Address":"fcf9:d630:f9d:bac2:fb97:5e82:12a3:fcdc",
+     "dateAdded": "2019-02-27T10:00:48.936Z",
+     "contact": "Turco32"      
+   },
+   {
      "name":"bridlewood-7c63",
      "status": "active",
      "IPV6Address":"fc88:5d66:b3b6:1b36:99e2:3186:57ee:7c63",
      "dateAdded": "2019-02-27T10:00:48.936Z",
-     "contact": "Turco32"
-      
+     "contact": "Turco32"      
    }
 ]
