@@ -50,14 +50,21 @@
      "name":"dugnadsnett-1832",
      "status": "active",
      "IPV6Address":"fca3:2473:d82f:5119:8ea:38b5:ae40:1832",
-     "dateAdded": "2018-10-11T00:19:00.000Z"
+     "dateAdded": "2018-10-11T00:19:00.000Z",=
    },
    {
      "name":"massmesh-f173",
      "status": "active",
      "IPV6Address":"fc50:1800:544:5569:23c3:1b43:20c0:f173",
-     "dateAdded": "2018-12-04T00:00:00.000Z",
-     "contact": "Stephen304"
+     "dateAdded": "2019-02-27T10:00:48.936Z",
+     "contact": "Turco32"
+   },
+   {
+     "name":"bridlewood-7c63",
+     "status": "active",
+     "IPV6Address":"fc88:5d66:b3b6:1b36:99e2:3186:57ee:7c63",
+     "dateAdded": "2019-02-27T10:00:48.936Z",
+     "contact": "Turco32"
+      
    }
-
 ]
