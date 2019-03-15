@@ -759,7 +759,7 @@
       "dateAdded":"2017-08-15T00:00:00.0Z"
    },
    {
-      "name":"E-Mesh OPI",
+      "name":"E-Mesh-85",
       "latitude":43.68306736430572,
       "longitude":-79.52565314047547,
       "cardinalDirection":"North",
@@ -788,7 +788,7 @@
       "dateAdded":"2017-08-15T00:00:00.0Z"
    },
    {
-      "name": "E-Mesh Markham",
+      "name": "E-Mesh-8583",
       "latitude": 43.86291383688992,
       "longitude":-79.30052653796008,
       "cardinalDirectionAntenna": "Omni",
@@ -799,7 +799,7 @@
       "dateAdded": "2017-08-30T20:30:06.867Z"
    },
    {
-      "name": "Westmount Node",
+      "name": "Westmount-b274",
       "latitude": 43.68858897327703,
       "longitude": -79.51539830214313,
       "cardinalDirectionAntenna": "Omni",
@@ -809,7 +809,7 @@
       "dateAdded": "2017-10-28T16:58:11.735Z"
    },
    {
-      "name": "Datacenter Peer",
+      "name": "SSB-39dc",
       "latitude": 43.644728204426315,
       "longitude":-79.38400492913058,
       "cardinalDirection": "None",
@@ -819,7 +819,7 @@
       "dateAdded": "2017-10-28T02:34:57.023Z"
    },
    {
-      "name": "Datacenter Peer",
+      "name": "Node2",
       "latitude": 43.644728204426315,
       "longitude":-79.38400492913058,
       "cardinalDirection": "None",
