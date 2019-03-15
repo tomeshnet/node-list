@@ -6,7 +6,7 @@
      "dateAdded": "2018-06-29T23:52:59.804Z"
    },      
    {
-     "name":"westmount a6a4",
+     "name":"westmount-a6a4",
      "status": "active",
      "IPV6Address":"fc9d:ae29:44bb:2fde:add8:19a:cd4f:a6a4",
      "dateAdded": "2018-04-19T23:52:59.804Z"
@@ -79,5 +79,12 @@
      "IPV6Address":"fcdc:586:91ce:ba9e:3e5c:d18e:876a:ff85",
      "dateAdded": "2019-02-27T13:00:48.936Z",
      "contact": "Turco32"      
+   },
+   {
+     "name":"relikt",
+     "status": "active",
+     "IPV6Address":"fc05:89ac:69a2:f1d0:d66d:7310:24d8:9e48",
+     "dateAdded": "2019-03-15T12:36:05.823Z",
+     "contact": "Relikt"      
    }
 ]
