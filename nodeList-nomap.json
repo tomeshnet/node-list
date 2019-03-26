@@ -86,5 +86,14 @@
      "IPV6Address":"fc05:89ac:69a2:f1d0:d66d:7310:24d8:9e48",
      "dateAdded": "2019-03-15T12:36:05.823Z",
      "contact": "Relikt"      
+   },
+   {
+     "name":"Ikata",
+     "status": "active",
+     "IPV6Address":"fc88:cb8d:8638:1126:f02e:2b56:ac1c:b405",
+     "dateAdded": "2019-03-26T12:36:05.823Z",
+     "group": "gomesh",
+     "contact": "Ikata"      
    }
+  
 ]
