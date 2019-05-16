@@ -869,5 +869,17 @@
      "floor": 5,
      "status": "proposed",
      "dateAdded": "2019-01-14T03:22:19.832Z"
-   }
+   },
+   {
+     "name": "LibreMesh-59bf",
+     "latitude": 51.960440646753135,
+     "longitude":5.966175190145464,
+     "cardinalDirection": "Omni",
+     "cardinalDirectionAntenna": "Omni",
+     "floor": 3,
+     "status": "active",
+     "contact": "me@finlaydag33k.nl",
+     "IPV6Address": "",
+     "dateAdded": "2019-05-16T11:46:05.311Z"
+   }   
 ]
