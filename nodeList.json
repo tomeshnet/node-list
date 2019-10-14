@@ -809,16 +809,6 @@
       "dateAdded": "2017-10-28T16:58:11.735Z"
    },
    {
-      "name": "SSB-39dc",
-      "latitude": 43.644728204426315,
-      "longitude":-79.38400492913058,
-      "cardinalDirection": "None",
-      "status":"active",
-      "IPV6Address":"fc4d:c8e5:9efe:9ac2:8e72:fcf7:6ce8:39dc",
-      "floor": 1,
-      "dateAdded": "2017-10-28T02:34:57.023Z"
-   },
-   {
       "name": "Node2",
       "latitude": 43.644728204426315,
       "longitude":-79.38400492913058,
