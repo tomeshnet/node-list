@@ -4,6 +4,18 @@
      "status": "active",
      "IPV6Address":"fcbb:3e34:cdfe:9e99:cb34:c3a3:1604:9955",
      "dateAdded": "2018-06-29T23:52:59.804Z"
+   },
+   {
+     "name":"monitor.meshwithme.online",
+     "status": "active",
+     "IPV6Address":"fc0e:741f:1953:b0be:8958:2265:14cf:1e94",
+     "dateAdded": "2019-10-20T23:52:59.804Z"
+   },
+   {
+     "name":"ssb.meshwithme.online",
+     "status": "active",
+     "IPV6Address":"fc4d:c8e5:9efe:9ac2:8e72:fcf7:6ce8:39dc",
+     "dateAdded": "2019-10-20T23:52:59.804Z"
    },      
    {
      "name":"westmount-a6a4",
