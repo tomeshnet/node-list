@@ -1,0 +1,36 @@
+{
+    "SN1R1": {
+        "type": "router",
+        "latitude": 43.67294320193783,
+        "longitude": -79.49065126224754,
+        "IPv4": "100.64.10.1/24"
+    },
+    "SN1A1": {
+        "type": "antenna",
+        "mode": "AP",
+        "ssid": "TOMESH-AC-SN1A1",
+        "IPv4": "100.64.10.2",
+        "router": "SN1R1",
+        "latitude": 43.67298352127934,
+        "longitude": -79.4918780112915,
+        "antennaDirection":220,
+        "antennaDegreas": 120,
+        "antennaDistance": 2500,
+        "antennaHeight": "170",
+        "antennaType": "Sector"
+    },
+    "SN1A2": {
+        "type": "antenna",
+        "mode": "AP",
+        "ssid": "TOMESH-AC-SN1A2",
+        "IPv4": "100.64.11.2",
+        "router": "SN1R1",
+        "latitude": 43.672750718120334,
+        "longitude": -79.49165270573425,
+        "antennaDirection": 290,
+        "antennaDegreas": 120,
+        "antennaDistance": 2500,
+        "antennaHeight": "170",
+        "antennaType": "Sector"
+    }
+}
