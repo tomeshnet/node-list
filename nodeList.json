@@ -27,7 +27,7 @@
         "router": "SN1R1",
         "latitude": 43.672750718120334,
         "longitude": -79.49165270573425,
-        "antennaDirection": 290,
+        "antennaDirection": 270,
         "antennaDegreas": 120,
         "antennaDistance": 2500,
         "antennaHeight": "170",
