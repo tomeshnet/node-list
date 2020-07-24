@@ -5,7 +5,8 @@
         "longitude": -79.49164465910721,
         "altitude": 170,
         "IPv4": "100.64.10.1",
-        "group": "SN1"
+        "group": "SN1",
+        "dateAdded": "2020-07-23T18:00:00.000Z"
     },
     "SN1A1": {
         "type": "antenna",
@@ -22,7 +23,8 @@
         "antennaType": "Sector",
         "antennaModel": "LAP-120",
         "antennaProtocol": "airmax-ac",
-        "group": "SN1"
+        "group": "SN1",
+        "dateAdded": "2020-07-23T18:00:00.000Z"
     },
     "SN1A2": {
         "type": "antenna",
@@ -39,6 +41,7 @@
         "antennaType": "Sector",
         "antennaModel": "LAP-120",
         "antennaProtocol": "airmax-ac",
-        "group": "SN1"
+        "group": "SN1",
+        "dateAdded": "2020-07-23T18:00:00.000Z"
     }
 }
