@@ -9,7 +9,7 @@
     },
     "SN1A1": {
         "type": "antenna",
-        "mode": "AP",
+        "mode": "ap",
         "ssid": "TOMESH-AC-SN1A1",
         "IPv4": "100.64.10.2",
         "router": "SN1R1",
@@ -26,7 +26,7 @@
     },
     "SN1A2": {
         "type": "antenna",
-        "mode": "AP",
+        "mode": "ap",
         "ssid": "TOMESH-AC-SN1A2",
         "IPv4": "100.64.11.2",
         "router": "SN1R1",
