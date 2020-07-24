@@ -1,47 +1,47 @@
 {
-    "SN1R1": {
+    "sn1r1": {
         "type": "router",
         "latitude": 43.672975276182896,
         "longitude": -79.49164465910721,
         "altitude": 170,
         "IPv4": "100.64.10.1",
-        "group": "SN1",
+        "group": "sn1",
         "dateAdded": "2020-07-23T18:00:00.000Z"
     },
-    "SN1A1": {
+    "sn1a1": {
         "type": "antenna",
         "mode": "ap",
-        "ssid": "TOMESH-AC-SN1A1",
+        "ssid": "tomesh-airmax-sn1a1",
         "IPv4": "100.64.10.2",
-        "router": "SN1R1",
+        "router": "sn1r1",
         "latitude": 43.67295733096905,
         "longitude": -79.49186460024643,
         "altitude": 170,
         "antennaDirection":200,
         "antennaDegreas": 120,
         "antennaDistance": 2500,        
-        "antennaType": "Sector",
+        "antennaType": "sector",
         "antennaModel": "LAP-120",
         "antennaProtocol": "airmax-ac",
-        "group": "SN1",
+        "group": "sn1",
         "dateAdded": "2020-07-23T18:00:00.000Z"
     },
-    "SN1A2": {
+    "sn1a2": {
         "type": "antenna",
         "mode": "ap",
-        "ssid": "TOMESH-AC-SN1A2",
+        "ssid": "tomesh-airmax-sn1a2",
         "IPv4": "100.64.11.2",
-        "router": "SN1R1",
+        "router": "sn1r1",
         "latitude": 43.67274344300706,
         "longitude": -79.49168288058567,
         "altitude": 170,
         "antennaDirection": 275,
         "antennaDegreas": 120,
         "antennaDistance": 2500,
-        "antennaType": "Sector",
+        "antennaType": "sector",
         "antennaModel": "LAP-120",
         "antennaProtocol": "airmax-ac",
-        "group": "SN1",
+        "group": "sn1",
         "dateAdded": "2020-07-23T18:00:00.000Z"
     }
 }
