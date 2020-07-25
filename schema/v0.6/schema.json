@@ -1,0 +1,200 @@
+{
+    "definitions": {},
+    "$schema": "http://json-schema.org/draft-04/schema#", 
+    "$id": "https://example.com/object1595636524.json", 
+    "title": "Root", 
+    "type": "object",
+    "required": [
+        "nodeList"
+    ],
+    "properties": {
+        "nodeList": {
+            "$id": "#root/nodeList", 
+            "title": "Nodelist", 
+            "type": "array",
+            "default": [],
+            "items":{
+                "$id": "#root/nodeList/items", 
+                "title": "Items", 
+                "type": "object",
+                "required": [
+                    "altitude",
+                    "dateAdded",
+                    "group",
+                    "ipv4",
+                    "latitude",
+                    "longitude",
+                    "name",
+                    "type"
+                ],
+                "properties": {
+                    "altitude": {
+                        "$id": "#root/nodeList/items/altitude", 
+                        "title": "Altitude", 
+                        "type": "integer",
+                        "examples": [
+                            170
+                        ],
+                        "default": 0
+                    },
+                    "antennaCone": {
+                        "$id": "#root/nodeList/items/antennaCone", 
+                        "title": "Antenna Cone", 
+                        "type": "integer",
+                        "examples": [
+                            120
+                        ],
+                        "default": 0
+                    },
+                    "antennaDirection": {
+                        "$id": "#root/nodeList/items/antennaDirection", 
+                        "title": "Antenna Direction", 
+                        "type": "integer",
+                        "examples": [
+                            200
+                        ],
+                        "default": 0
+                    },
+                    "antennaDistance": {
+                        "$id": "#root/nodeList/items/antennaDistance", 
+                        "title": "Antenna Distance", 
+                        "type": "integer",
+                        "examples": [
+                            2500
+                        ],
+                        "default": 0
+                    },
+                    "antennaModel": {
+                        "$id": "#root/nodeList/items/antennaModel", 
+                        "title": "Antenna Model", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "lap-120"
+                        ],
+                        "pattern": "^.*$"
+                    },
+                    "antennaProtocol": {
+                        "$id": "#root/nodeList/items/antennaProtocol", 
+                        "title": "Antenna Protocol", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "airmaxac"
+                        ],
+                        "pattern": "^.*$"
+                    },
+                    "antennaType": {
+                        "$id": "#root/nodeList/items/antennaType", 
+                        "title": "Antenna Type", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "sector"
+                        ],
+                        "pattern": "^.*$"
+                    },
+                    "dateAdded": {
+                        "$id": "#root/nodeList/items/dateAdded", 
+                        "title": "Date Added", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "2020-07-23T18:00:00.000Z"
+                        ],
+                        "pattern": "^.*$"
+                    },
+                    "group": {
+                        "$id": "#root/nodeList/items/group", 
+                        "title": "Group", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "sn1"
+                        ],
+                        "pattern": "^.*$"
+                    },
+                    "ipv4": {
+                        "$id": "#root/nodeList/items/ipv4", 
+                        "title": "IPv4", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "100.64.10.2"
+                        ],
+                        "pattern": "^.*$"
+                    },
+                    "latitude": {
+                        "$id": "#root/nodeList/items/latitude", 
+                        "title": "Latitude", 
+                        "type": "number",
+                        "examples": [
+                            43.67295733096905
+                        ],
+                        "default": 0.0
+                    },
+                    "longitude": {
+                        "$id": "#root/nodeList/items/longitude", 
+                        "title": "Longitude", 
+                        "type": "number",
+                        "examples": [
+                            -79.49186460024643
+                        ],
+                        "default": 0.0
+                    },
+                    "mode": {
+                        "$id": "#root/nodeList/items/mode", 
+                        "title": "Mode", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "ap"
+                        ],
+                        "pattern": "^.*$"
+                    },
+                    "name": {
+                        "$id": "#root/nodeList/items/name", 
+                        "title": "Name", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "sn1a1"
+                        ],
+                        "pattern": "^.*$"
+                    },
+                    "router": {
+                        "$id": "#root/nodeList/items/router", 
+                        "title": "Router", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "sn1r1"
+                        ],
+                        "pattern": "^.*$"
+                    },
+                    "ssid": {
+                        "$id": "#root/nodeList/items/ssid", 
+                        "title": "SSID", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "tomesh-airmaxac-sn1a1"
+                        ],
+                        "pattern": "^.*$"
+                    },
+                    "type": {
+                        "$id": "#root/nodeList/items/type", 
+                        "title": "Type", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "antenna"
+                        ],
+                        "pattern": "^.*$"
+                    }
+                }
+            }
+
+        }
+    }
+}
