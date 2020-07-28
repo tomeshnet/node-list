@@ -20,6 +20,9 @@
       "antennaType": "sector",
       "dateAdded": "2020-07-23T18:00:00.000Z",
       "group": "sn1",
+      "images": [
+        "sn1a1.jpg"
+      ],
       "ipv4": "100.64.10.2",
       "latitude": 43.67295733096905,
       "longitude": -79.49186460024643,
