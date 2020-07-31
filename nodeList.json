@@ -8,6 +8,7 @@
       "latitude": 43.672975276182896,
       "longitude": -79.49164465910721,
       "name": "sn1r1",
+      "status": "active",
       "type": "router"
     },
     {
@@ -27,6 +28,7 @@
       "name": "sn1a1",
       "router": "sn1r1",
       "ssid": "tomesh-airmaxac-sn1a1",
+      "status": "active",
       "type": "antenna"
     },
     {
@@ -46,6 +48,7 @@
       "name": "sn1a2",
       "router": "sn1r1",
       "ssid": "tomesh-airmaxac-sn1a2",
+      "status": "active",
       "type": "antenna"
     }
   ]
