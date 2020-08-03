@@ -184,11 +184,13 @@
                     },
                     "status": {
                         "$id": "#root/nodeList/items/status", 
-                        "title": "status", 
+                        "title": "Status", 
                         "type": "string",
                         "default": "active",
                         "examples": [
-                            "active, inactive, proposed"
+                            "active",
+                            "inactive", 
+                            "proposed"
                         ],
                         "pattern": "^.*$"
                     },
