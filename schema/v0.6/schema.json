@@ -182,6 +182,16 @@
                         ],
                         "pattern": "^.*$"
                     },
+                    "status": {
+                        "$id": "#root/nodeList/items/status", 
+                        "title": "status", 
+                        "type": "string",
+                        "default": "active",
+                        "examples": [
+                            "active, inactive, proposed"
+                        ],
+                        "pattern": "^.*$"
+                    },
                     "type": {
                         "$id": "#root/nodeList/items/type", 
                         "title": "Type", 
