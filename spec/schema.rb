@@ -1,6 +1,6 @@
 require 'json-schema'
 
-schema_version = 0.6
+schema_version = 0.7
 
 describe 'nodeList.json' do
   it "conforms to v#{schema_version}/schema.json" do
