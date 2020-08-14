@@ -107,10 +107,10 @@
                     "images": {
                         "$id": "#root/nodeList/items/images", 
                         "title": "Images", 
-                        "type": "object",
-                        "default": "",
+                        "type": "array",
+                        "default": [],
                         "examples": [
-                            "sn1a2-hw.jpg"
+                            ["sn1a2-hw.jpg"]
                         ],
                         "pattern": "^.*$"
                     },
