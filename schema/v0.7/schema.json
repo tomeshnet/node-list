@@ -124,6 +124,16 @@
                         ],
                         "pattern": "^.*$"
                     },
+                    "ipv6": {
+                        "$id": "#root/nodeList/items/ipv6", 
+                        "title": "IPv6", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "fd54:4f4d:5348:400a::1"
+                        ],
+                        "pattern": "^.*$"
+                    },
                     "latitude": {
                         "$id": "#root/nodeList/items/latitude", 
                         "title": "Latitude", 
