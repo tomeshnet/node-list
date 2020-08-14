@@ -104,6 +104,16 @@
                         ],
                         "pattern": "^.*$"
                     },
+                    "images": {
+                        "$id": "#root/nodeList/items/images", 
+                        "title": "Images", 
+                        "type": "array",
+                        "default": [],
+                        "examples": [
+                            ["sn1a2-hw.jpg"]
+                        ],
+                        "pattern": "^.*$"
+                    },
                     "group": {
                         "$id": "#root/nodeList/items/group", 
                         "title": "Group", 
