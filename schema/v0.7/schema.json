@@ -25,7 +25,8 @@
                     "latitude",
                     "longitude",
                     "name",
-                    "type"
+                    "type",
+                    "status"
                 ],
                 "properties": {
                     "altitude": {
@@ -221,6 +222,16 @@
                         "default": "",
                         "examples": [
                             "antenna"
+                        ],
+                        "pattern": "^.*$"
+                    },
+                    "routerModel": {
+                        "$id": "#root/nodeList/items/routerModel", 
+                        "title": "Router Model", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "edgerouter-x-sfp"
                         ],
                         "pattern": "^.*$"
                     }

@@ -1,6 +1,7 @@
 {
   "nodeList": [
     {
+      "routerModel": "edgerouter-x-sfp",
       "altitude": 170,
       "dateAdded": "2020-07-23T18:00:00.000Z",
       "group": "sn1",
