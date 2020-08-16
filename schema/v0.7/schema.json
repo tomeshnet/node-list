@@ -65,17 +65,6 @@
                         ],
                         "default": 0
                     },
-                    "model": {
-                        "$id": "#root/nodeList/items/model", 
-                        "title": "Antenna Model", 
-                        "type": "string",
-                        "default": "",
-                        "examples": [
-                            "lap-120",
-                            "er-x-sfp"
-                        ],
-                        "pattern": "^.*$"
-                    },
                     "antennaProtocol": {
                         "$id": "#root/nodeList/items/antennaProtocol", 
                         "title": "Antenna Protocol", 
@@ -177,6 +166,17 @@
                         ],
                         "pattern": "^.*$"
                     },
+                    "model": {
+                        "$id": "#root/nodeList/items/model", 
+                        "title": "Hardware Model", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "lap-120",
+                            "er-x-sfp"
+                        ],
+                        "pattern": "^.*$"
+                    },
                     "name": {
                         "$id": "#root/nodeList/items/name", 
                         "title": "Name", 
@@ -228,7 +228,7 @@
                             "antenna"
                         ],
                         "pattern": "^.*$"
-                    },
+                    }
                 }
             }
 
