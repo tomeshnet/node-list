@@ -65,13 +65,14 @@
                         ],
                         "default": 0
                     },
-                    "antennaModel": {
-                        "$id": "#root/nodeList/items/antennaModel", 
+                    "model": {
+                        "$id": "#root/nodeList/items/model", 
                         "title": "Antenna Model", 
                         "type": "string",
                         "default": "",
                         "examples": [
-                            "lap-120"
+                            "lap-120",
+                            "er-x-sfp"
                         ],
                         "pattern": "^.*$"
                     },
@@ -169,7 +170,10 @@
                         "type": "string",
                         "default": "",
                         "examples": [
-                            "ap"
+                            "ap",
+                            "station",
+                            "adhoc",
+                            "802.11s"
                         ],
                         "pattern": "^.*$"
                     },
@@ -225,16 +229,6 @@
                         ],
                         "pattern": "^.*$"
                     },
-                    "routerModel": {
-                        "$id": "#root/nodeList/items/routerModel", 
-                        "title": "Router Model", 
-                        "type": "string",
-                        "default": "",
-                        "examples": [
-                            "edgerouter-x-sfp"
-                        ],
-                        "pattern": "^.*$"
-                    }
                 }
             }
 
