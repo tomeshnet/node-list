@@ -25,8 +25,8 @@
                     "latitude",
                     "longitude",
                     "name",
-                    "type",
-                    "status"
+                    "status",
+                    "type"
                 ],
                 "properties": {
                     "altitude": {
@@ -91,7 +91,17 @@
                         "type": "string",
                         "default": "",
                         "examples": [
-                            "2020-07-23T18:00:00.000Z"
+                            "2020-07-23"
+                        ],
+                        "format": "date"
+                    },
+                    "group": {
+                        "$id": "#root/nodeList/items/group", 
+                        "title": "Group", 
+                        "type": "string",
+                        "default": "",
+                        "examples": [
+                            "sn1"
                         ],
                         "pattern": "^.*$"
                     },
@@ -105,16 +115,6 @@
                         ],
                         "pattern": "^.*$"
                     },
-                    "group": {
-                        "$id": "#root/nodeList/items/group", 
-                        "title": "Group", 
-                        "type": "string",
-                        "default": "",
-                        "examples": [
-                            "sn1"
-                        ],
-                        "pattern": "^.*$"
-                    },
                     "ipv4": {
                         "$id": "#root/nodeList/items/ipv4", 
                         "title": "IPv4", 
@@ -123,7 +123,7 @@
                         "examples": [
                             "100.64.10.2"
                         ],
-                        "pattern": "^.*$"
+                        "format": "ipv4"
                     },
                     "ipv6": {
                         "$id": "#root/nodeList/items/ipv6", 
@@ -133,7 +133,7 @@
                         "examples": [
                             "fd54:4f4d:5348:400a::1"
                         ],
-                        "pattern": "^.*$"
+                        "format": "ipv6"
                     },
                     "latitude": {
                         "$id": "#root/nodeList/items/latitude", 
@@ -172,8 +172,8 @@
                         "type": "string",
                         "default": "",
                         "examples": [
-                            "lap-120",
-                            "er-x-sfp"
+                            "er-x-sfp",
+                            "lap-120"
                         ],
                         "pattern": "^.*$"
                     },
@@ -205,7 +205,7 @@
                         "examples": [
                             "tomesh-airmaxac-sn1a1"
                         ],
-                        "pattern": "^.*$"
+                        "pattern": "^.*-.*-.*$"
                     },
                     "status": {
                         "$id": "#root/nodeList/items/status", 
@@ -217,7 +217,7 @@
                             "inactive", 
                             "proposed"
                         ],
-                        "pattern": "^.*$"
+                        "pattern": "^active|inactive|proposed$"
                     },
                     "type": {
                         "$id": "#root/nodeList/items/type", 
@@ -225,6 +225,7 @@
                         "type": "string",
                         "default": "",
                         "examples": [
+                            "router",
                             "antenna"
                         ],
                         "pattern": "^.*$"
