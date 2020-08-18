@@ -3,6 +3,7 @@ sudo: false
 rvm:
   - 2.4.6
 
+before_script: export SCHEMA_VERSION=0.7
 script: bundle exec rspec spec/schema.rb --color --format doc
 
 notifications:

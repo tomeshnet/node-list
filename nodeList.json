@@ -2,12 +2,15 @@
   "nodeList": [
     {
       "altitude": 170,
-      "dateAdded": "2020-07-23T18:00:00.000Z",
+      "dateAdded": "2020-07-23",
       "group": "sn1",
       "ipv4": "100.64.10.1",
+      "ipv6": "fd54:4f4d:5348:400a::1",
       "latitude": 43.672975276182896,
       "longitude": -79.49164465910721,
+      "model": "er-x-sfp",
       "name": "sn1r1",
+      "status": "active",
       "type": "router"
     },
     {
@@ -15,18 +18,24 @@
       "antennaCone": 120,
       "antennaDirection": 200,
       "antennaDistance": 2500,
-      "antennaModel": "lap-120",
       "antennaProtocol": "airmaxac",
       "antennaType": "sector",
-      "dateAdded": "2020-07-23T18:00:00.000Z",
+      "dateAdded": "2020-07-23",
       "group": "sn1",
+      "images": [
+        "sn1a1.jpg",
+        "sn1a1-hw.jpg"
+      ],
       "ipv4": "100.64.10.2",
+      "ipv6": "fd54:4f4d:5348:400a::2",
       "latitude": 43.67295733096905,
       "longitude": -79.49186460024643,
       "mode": "ap",
+      "model": "lap-120",
       "name": "sn1a1",
       "router": "sn1r1",
       "ssid": "tomesh-airmaxac-sn1a1",
+      "status": "active",
       "type": "antenna"
     },
     {
@@ -34,18 +43,23 @@
       "antennaCone": 120,
       "antennaDirection": 275,
       "antennaDistance": 2500,
-      "antennaModel": "lap-120",
       "antennaProtocol": "airmaxac",
       "antennaType": "sector",
-      "dateAdded": "2020-07-23T18:00:00.000Z",
+      "dateAdded": "2020-07-23",
       "group": "sn1",
+      "images": [
+        "sn1a2-hw.jpg"
+      ],
       "ipv4": "100.64.11.2",
+      "ipv6": "fd54:4f4d:5348:400b::2",
       "latitude": 43.67274344300706,
       "longitude": -79.49168288058567,
       "mode": "ap",
+      "model": "lap-120",
       "name": "sn1a2",
       "router": "sn1r1",
       "ssid": "tomesh-airmaxac-sn1a2",
+      "status": "active",
       "type": "antenna"
     }
   ]
