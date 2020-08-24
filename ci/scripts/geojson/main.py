@@ -47,4 +47,4 @@ for node in nodes:
     gj["features"].append(feat)
 
 with open("../../build/geo.json", "w") as f:
-    json.dump(gj, f, indent=2)
+    json.dump(gj, f, separators=(',', ':'))
