@@ -4,6 +4,9 @@
       "altitude": 170,
       "dateAdded": "2020-07-23",
       "group": "sn1",
+      "images": [
+        "sn1r1-hw.jpg"
+      ],
       "ipv4": "100.64.10.1",
       "ipv6": "fd54:4f4d:5348:400a::1",
       "latitude": 43.672975276182896,
@@ -48,6 +51,7 @@
       "dateAdded": "2020-07-23",
       "group": "sn1",
       "images": [
+        "sn1a2.jpg",
         "sn1a2-hw.jpg"
       ],
       "ipv4": "100.64.11.2",
