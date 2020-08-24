@@ -16,7 +16,9 @@ Currently:
 - [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON)
     - Good for applications that are already expecting GeoJSON, like [Leaflet](https://leafletjs.com/)
 
-These files are always available on the [Releases page](https://github.com/tomeshnet/node-list/releases). You can always get the most recent version using the special "latest" URL. For example, if you want to download the `kml.kml` file, the URL is `https://github.com/tomeshnet/node-list/releases/latest/download/kml.kml`.
+These files are always available on the [Releases page](https://github.com/tomeshnet/node-list/releases).
+
+You can always get the most recent version using the special "latest" URL. For example, if you want to download the `kml.kml` file, the URL is `https://github.com/tomeshnet/node-list/releases/latest/download/kml.kml`.
 
 ## Images
 
