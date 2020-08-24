@@ -8,22 +8,35 @@ jobs:
       rvm: 2.4.6
       before_script: export SCHEMA_VERSION=0.7
       script: bundle exec rspec spec/schema.rb --color --format doc
+      if: tag IS blank  # Don't run on releases
 
     - language: python
       python: 3.8
       before_install: cd ci/scripts/kml
       script: python3 main.py
+      if: tag IS blank
 
     - language: python
       python: 3.8
       before_install: cd ci/scripts/geojson
       script: python3 main.py
+      if: tag IS blank
 
     # Runs after all other jobs
     - stage: GitHub Release
-      language: shell
       if: branch = master AND tag IS blank  # Don't deploy if this commit is already tagged
-      before_deploy:
+      language: python
+      python: 3.8
+      install: skip
+      script: skip
+      before_deploy:  # The Python jobs are run again, so that the data can be used in this new job
+        - cd ci/scripts/kml
+        - pip install -r requirements.txt || true
+        - python3 main.py
+        - cd ../geojson
+        - pip install -r requirements.txt || true
+        - python3 main.py
+        - cd ../../..
         - rm ci/build/.gitkeep  # In case this would get added to releases
         - git config --global user.email "builds@travis-ci.com"
         - git config --global user.name "Travis CI"
@@ -38,7 +51,7 @@ jobs:
         file: ci/build/*
         on:
           branch: master
-          tags: false
+          tags: false  # Enabling this would cause infinite jobs!!
 
 notifications:
   email: false
