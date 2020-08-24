@@ -23,10 +23,8 @@ jobs:
     - stage: GitHub Release
       language: shell
       if: branch = master AND tag IS blank  # Don't deploy if this commit is already tagged
-      script:
-        - echo "Deploying to GitHub releases..."
-        - rm ci/build/.gitkeep  # In case this would get added to releases
       before_deploy:
+        - rm ci/build/.gitkeep  # In case this would get added to releases
         - git config --global user.email "builds@travis-ci.com"
         - git config --global user.name "Travis CI"
         - export GIT_TAG=$TRAVIS_BUILD_NUMBER-0.1.0
