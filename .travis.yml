@@ -21,6 +21,7 @@ jobs:
 
     # Runs after all other jobs
     - stage: GitHub Release
+      language: shell
       if: branch = master AND tag IS blank  # Don't deploy if this commit is already tagged
       script:
         - echo "Deploying to GitHub releases..."
