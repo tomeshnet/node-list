@@ -1,10 +1,46 @@
-language: ruby
-sudo: false
-rvm:
-  - 2.4.6
+# Build Matrix runs multiple jobs.
+# First one is for spec, others are for generating outputs
+# Final part is a "stage" that only deploys if everything else worked.
 
-before_script: export SCHEMA_VERSION=0.7
-script: bundle exec rspec spec/schema.rb --color --format doc
+jobs:
+  include:
+    - language: ruby
+      sudo: false
+      rvm: 2.4.6
+      before_script: export SCHEMA_VERSION=0.7
+      script: bundle exec rspec spec/schema.rb --color --format doc
+
+    - language: python
+      python: 3.8
+      before_install: cd ci/scripts/kml
+      script: python3 main.py
+
+    - language: python
+      python: 3.8
+      before_install: cd ci/scripts/geojson
+      script: python3 main.py
+
+    # Runs after all other jobs
+    - stage: GitHub Release
+        if: branch = master AND tag IS blank  # Don't deploy if this commit is already tagged
+        script:
+          - echo "Deploying to GitHub releases..."
+          - rm ci/build/.gitkeep  # In case this would get added to releases
+        before_deploy:
+          - git config --global user.email "builds@travis-ci.com"
+          - git config --global user.name "Travis CI"
+          - export GIT_TAG=$TRAVIS_BUILD_NUMBER-0.1.0
+          - git tag $GIT_TAG -a -m "Release for commit $TRAVIS_COMMIT"
+          - git push -q https://$GITHUB_TOKEN@github.com/tomeshnet/node-list --tags
+        deploy:
+          provider: releases
+          api_key: $GITHUB_TOKEN
+          skip_cleanup: true
+          file_glob: true
+          file: ci/build/*
+          on:
+            branch: master
+            tags: false
 
 notifications:
   email: false
