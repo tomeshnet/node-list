@@ -75,22 +75,28 @@ with open("../../../nodeList.json", "r") as f:
 kml = simplekml.Kml(name="Toronto Community Network")
 
 active = kml.newfolder(name="Active Nodes", open=0, visibility=1)
-proposed = kml.newfolder(name="Proposed Nodes", open=0, visibility=0)
+proposed = kml.newfolder(name="Proposed Nodes", open=0, visibility=1)
 inactive = kml.newfolder(name="Inactive Nodes", open=0, visibility=0)
 
 for node in nodes:
     if node["status"] == "active":
         folder = active
         vis = 1  # Active nodes always visible
+        # Yellow
+        icon_url = "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
     elif node["status"] == "proposed":
         folder = proposed
-        vis = 0
+        vis = 1
+        # Light Blue
+        icon_url = "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png"
     else:
         # All other nodes are considered inactive
         folder = inactive
         vis = 0
+        # Red
+        icon_url = "http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png"
 
-    folder.newpoint(
+    pnt = folder.newpoint(
         name=node["name"],
         altitudemode=ALT_MODE,
         coords=[(node["longitude"], node["latitude"], node["altitude"])],
@@ -98,5 +104,6 @@ for node in nodes:
         description=get_desc(node),
         snippet=simplekml.Snippet(),  # Empty snippet
     )
+    pnt.style.iconstyle.icon.href = icon_url
 
 kml.save("../../build/kml.kml")
