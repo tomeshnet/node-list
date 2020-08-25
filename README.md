@@ -6,6 +6,20 @@ This repository contains the list of nodes that are part of the Toronto Communit
 Each node is recorded with geolocation and technical information as according to [schema.json][schema-json].
 The list of nodes is organized as a JSON file at [nodeList.json](nodeList.json).
 
+## Other Formats
+
+[Travis CI](.travis.yml) converts the [nodeList.json](nodeList.json) file into several formats.
+
+Currently:
+- Keyhole Markup Language ([KML](https://developers.google.com/kml/))
+    - Good for viewing the nodes in mapping programs like Google Earth/Maps
+- [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON)
+    - Good for applications that are already expecting GeoJSON, like [Leaflet](https://leafletjs.com/)
+
+These files are always available on the [Releases page](https://github.com/tomeshnet/node-list/releases).
+
+You can always get the most recent version using the special "latest" URL. For example, if you want to download the `kml.kml` file, the URL is `https://github.com/tomeshnet/node-list/releases/latest/download/kml.kml`.
+
 ## Images
 
 The [images](images) folder contains images referenced in [nodeList.json](nodeList.json).
