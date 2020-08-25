@@ -28,8 +28,7 @@ jobs:
       language: python
       python: 3.8
       install: skip
-      script: skip
-      before_deploy:  # The Python jobs are run again, so that the data can be used in this new job
+      script:  # The Python jobs are run again, so that the data can be used in this new job
         - cd ci/scripts/kml
         - pip install -r requirements.txt || true
         - python3 main.py
