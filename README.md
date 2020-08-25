@@ -18,7 +18,13 @@ Currently:
 
 These files are always available on the [Releases page](https://github.com/tomeshnet/node-list/releases).
 
-You can always get the most recent version using the special "latest" URL. For example, if you want to download the `kml.kml` file, the URL is `https://github.com/tomeshnet/node-list/releases/latest/download/kml.kml`.
+### Latest Files
+
+If you want to link to the latest version of these files, use these special URLs.
+
+- https://raw.githubusercontent.com/tomeshnet/node-list/master/nodeList.json
+- https://raw.githubusercontent.com/tomeshnet/node-list/assets/kml.kml
+- https://raw.githubusercontent.com/tomeshnet/node-list/assets/geo.json
 
 ## Images
 

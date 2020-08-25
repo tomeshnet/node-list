@@ -44,14 +44,24 @@ jobs:
         - git tag $GIT_TAG -a -m "Release for commit $TRAVIS_COMMIT"
         - git push -q https://$GITHUB_TOKEN@github.com/tomeshnet/node-list --tags
       deploy:
-        provider: releases
-        api_key: $GITHUB_TOKEN
-        skip_cleanup: true
-        file_glob: true
-        file: ci/build/*
-        on:
-          branch: master
-          tags: false  # Enabling this would cause infinite jobs!!
+        - provider: releases
+          api_key: $GITHUB_TOKEN
+          skip_cleanup: true
+          file_glob: true
+          file: ci/build/*
+          on:
+            branch: master
+            tags: false  # Enabling this would cause infinite jobs!!
+
+        - provider: pages
+          target_branch: assets
+          local_dir: ci/build
+          skip_cleanup: true
+          github_token: $GITHUB_TOKEN
+          keep_history: false
+          on:
+            branch: master
+            tags: false
 
 notifications:
   email: false
