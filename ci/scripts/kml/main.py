@@ -106,4 +106,4 @@ for node in nodes:
     )
     pnt.style.iconstyle.icon.href = icon_url
 
-kml.save("../../build/kml.kml")
+kml.save("../../build/tomeshnet-node-list-kml.kml")

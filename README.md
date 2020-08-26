@@ -24,8 +24,8 @@ These files are always available on the [Releases page](https://github.com/tomes
 If you want to link to the latest version of these files, use these special URLs.
 
 - https://raw.githubusercontent.com/tomeshnet/node-list/master/nodeList.json
-- https://raw.githubusercontent.com/tomeshnet/node-list/assets/kml.kml
-- https://raw.githubusercontent.com/tomeshnet/node-list/assets/geo.json
+- https://raw.githubusercontent.com/tomeshnet/node-list/assets/tomeshnet-node-list-kml.kml
+- https://raw.githubusercontent.com/tomeshnet/node-list/assets/tomeshnet-node-list-geojson.json
 
 ## Images
 
