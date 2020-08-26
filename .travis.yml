@@ -14,17 +14,19 @@ jobs:
       python: 3.8
       before_install: cd ci/scripts/kml
       script: python3 main.py
-      if: branch != master AND tag IS blank  # If branch is master then the tests will be run in the deploy stage anyway
+      if: tag IS blank
 
     - language: python
       python: 3.8
       before_install: cd ci/scripts/geojson
       script: python3 main.py
-      if: branch != master AND tag IS blank
+      if: tag IS blank
 
     # Runs after all other jobs
     - stage: GitHub Release
-      if: branch = master AND tag IS blank  # Don't deploy if this commit is already tagged
+      # Don't deploy if this commit is already tagged
+      # Don't create a tag on pull_requests - this creates a release with no assets
+      if: branch = master AND tag IS blank AND env(TRAVIS_EVENT_TYPE) != pull_request
       language: python
       python: 3.8
       install: skip
