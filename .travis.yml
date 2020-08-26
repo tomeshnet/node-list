@@ -25,12 +25,12 @@ jobs:
     # Runs after all other jobs
     - stage: GitHub Release
       # Don't deploy if this commit is already tagged
-      # Don't create a tag on pull_requests - this creates a release with no assets
-      if: branch = master AND tag IS blank AND env(TRAVIS_EVENT_TYPE) != pull_request
+      if: branch = master AND tag IS blank
       language: python
       python: 3.8
       install: skip
       script:  # The Python jobs are run again, so that the data can be used in this new job
+        - if [[ $TRAVIS_EVENT_TYPE == 'pull_request' ]]; then travis_terminate 0; fi
         - cd ci/scripts/kml
         - pip install -r requirements.txt || true
         - python3 main.py
