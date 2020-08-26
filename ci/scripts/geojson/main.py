@@ -46,5 +46,5 @@ for node in nodes:
 
     gj["features"].append(feat)
 
-with open("../../build/geo.json", "w") as f:
+with open("../../build/tomeshnet-node-list-geojson.json", "w") as f:
     json.dump(gj, f, separators=(',', ':'))

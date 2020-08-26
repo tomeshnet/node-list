@@ -14,13 +14,13 @@ jobs:
       python: 3.8
       before_install: cd ci/scripts/kml
       script: python3 main.py
-      if: tag IS blank
+      if: branch != master AND tag IS blank  # If branch is master then the tests will be run in the deploy stage anyway
 
     - language: python
       python: 3.8
       before_install: cd ci/scripts/geojson
       script: python3 main.py
-      if: tag IS blank
+      if: branch != master AND tag IS blank
 
     # Runs after all other jobs
     - stage: GitHub Release
