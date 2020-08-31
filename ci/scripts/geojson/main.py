@@ -20,7 +20,7 @@ else:
         sys.exit(1)
     COMMIT = proc.stdout.strip()
 
-with open("../../../nodeList.json", "r") as f:
+with open("../../../tomeshnet-node-list.json", "r") as f:
     nodes = json.load(f)["nodeList"]
 
 # GeoJSON is stored in a FeatureCollection.

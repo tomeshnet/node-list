@@ -5,11 +5,11 @@
 
 This repository contains the list of nodes that are part of the Toronto Community Network.
 Each node is recorded with geolocation and technical information as according to [schema.json][schema-json].
-The list of nodes is organized as a JSON file at [nodeList.json](nodeList.json).
+The list of nodes is organized as a JSON file at [tomeshnet-node-list.json](tomeshnet-node-list.json).
 
 ## Other Formats
 
-[Travis CI](.travis.yml) converts the [nodeList.json](nodeList.json) file into several formats.
+[Travis CI](.travis.yml) converts the [tomeshnet-node-list.json](tomeshnet-node-list.json)) file into several formats.
 
 Currently:
 - Keyhole Markup Language ([KML](https://developers.google.com/kml/))
@@ -23,13 +23,13 @@ These files are always available on the [Releases page](https://github.com/tomes
 
 If you want to link to the latest version of these files, use these special URLs.
 
-- https://raw.githubusercontent.com/tomeshnet/node-list/master/nodeList.json
+- https://raw.githubusercontent.com/tomeshnet/node-list/master/tomeshnet-node-list.json
 - https://raw.githubusercontent.com/tomeshnet/node-list/assets/tomeshnet-node-list-kml.kml
 - https://raw.githubusercontent.com/tomeshnet/node-list/assets/tomeshnet-node-list-geojson.json
 
 ## Images
 
-The [images](images) folder contains images referenced in [nodeList.json](nodeList.json).
+The [images](images) folder contains images referenced in [tomeshnet-node-list.json](tomeshnet-node-list.json).
 The images are named according to their associated node, with the following naming convention.
 
 | Name | Description | Example |
@@ -40,7 +40,7 @@ The images are named according to their associated node, with the following nami
 
 ## Validation
 
-In this repository, [Travis CI](.travis.yml) is configured to validate [nodeList.json](nodeList.json) against [schema.json][schema-json] using [Ruby JSON Schema Validator](https://github.com/ruby-json-schema/json-schema).
+In this repository, [Travis CI](.travis.yml) is configured to validate [tomeshnet-node-list.json](tomeshnet-node-list.json)) against [schema.json][schema-json] using [Ruby JSON Schema Validator](https://github.com/ruby-json-schema/json-schema).
 The validation tool currently supports up to [JSON Schema Draft 4](https://tools.ietf.org/html/draft-zyp-json-schema-04), so schema files must conform to the Draft 4 standard.
 
 You can use [JSON Schema Lint](https://jsonschemalint.com) to validate manually.

@@ -69,7 +69,7 @@ def get_desc(node):
     return "<![CDATA[" + desc + "]]>"
 
 
-with open("../../../nodeList.json", "r") as f:
+with open("../../../tomeshnet-node-list.json", "r") as f:
     nodes = json.load(f)["nodeList"]
 
 kml = simplekml.Kml(name="Toronto Community Network")
