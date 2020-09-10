@@ -297,7 +297,7 @@
     {
       "altitude": 170,
       "antennaCone": 20,
-      "antennaDirection": 285.35,
+      "antennaDirection": 105,
       "antennaDistance": 500,
       "antennaProtocol": "airmaxac",
       "antennaType": "narrow",
@@ -325,7 +325,7 @@
     }, 
     {
       "altitude": 170,
-      "antennaDirection": 105,
+      "antennaDirection": 285,
       "antennaDistance": 500,
       "antennaProtocol": "airmaxac",
       "antennaType": "narrow",
