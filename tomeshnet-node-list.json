@@ -381,6 +381,16 @@
     },
     {
       "altitude": 170,
+      "dateAdded": "2020-08-19",
+      "group": "sn3",
+      "latitude": 43.74927097791246,
+      "longitude": -79.22075764185715,
+      "name": "sn3r1",
+      "status": "proposed",
+      "type": "router"
+    },  
+    {
+      "altitude": 170,
       "antennaCone": 120,
       "antennaDirection": 316,
       "antennaDistance": 2500,
@@ -415,6 +425,16 @@
       "ssid": "tomesh-airmaxac-sn3a3",
       "status": "proposed",
       "type": "antenna"
+    },
+    {
+      "altitude": 170,
+      "dateAdded": "2020-08-19",
+      "group": "sn3",
+      "latitude": 43.746119462177525,
+      "longitude": -79.21805129296112,
+      "name": "sn3r2",
+      "status": "proposed",
+      "type": "router"
     },
     {
       "altitude": 170,
@@ -455,14 +475,14 @@
     },
     {
       "altitude": 170,
-      "antennaDirection": 146,
+      "antennaDirection": 219,
       "antennaDistance": 500,
       "antennaProtocol": "airmaxac",
       "antennaType": "narrow",
       "dateAdded": "2020-08-19",
       "group": "sn3",
-      "latitude": 43.749165,
-      "longitude": -79.220826,
+      "latitude": 43.745065,
+      "longitude": -79.214769,
       "mode": "ap",
       "model": "xxxx",
       "name": "sn3a5",
@@ -473,14 +493,24 @@
     },
     {
       "altitude": 170,
+      "dateAdded": "2020-08-19",
+      "group": "sn3",
+      "latitude": 43.74494910606107,
+      "longitude": -79.214607336586,
+      "name": "sn3r3",
+      "status": "proposed",
+      "type": "router"
+    },
+    {
+      "altitude": 170,
       "antennaDirection": 327,
       "antennaDistance": 500,
       "antennaProtocol": "airmaxac",
       "antennaType": "narrow",
       "dateAdded": "2020-08-19",
       "group": "sn3",
-      "latitude": 43.74629,
-      "longitude": -79.21818,
+      "latitude": 43.745949,,
+      "longitude": -79.217923,
       "mode": "station",
       "model": "xxxx",
       "name": "sn3a6",
