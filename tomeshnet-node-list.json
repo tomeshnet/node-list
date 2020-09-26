@@ -398,25 +398,15 @@
       "antennaType": "sector",
       "dateAdded": "2020-09-10",
       "group": "sn3",
-      "latitude": 43.749468608168755,
-      "longitude": -79.22061146146584,
+      "latitude": 43.74634342734695,
+      "longitude": -79.2182243481505
       "mode": "ap",
       "model": "xxxx",
       "name": "sn3a1",
-      "router": "sn3r1",
+      "router": "sn3r2",
       "ssid": "tomesh-airmaxac-sn3a1",
       "status": "proposed",
       "type": "antenna"
-    },
-    {
-      "altitude": 170,
-      "dateAdded": "2020-08-19",
-      "group": "sn3",
-      "latitude": 43.746119462177525,
-      "longitude": -79.21805129296112,
-      "name": "sn3r2",
-      "status": "proposed",
-      "type": "router"
     },
     {
       "altitude": 170,
