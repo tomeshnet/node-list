@@ -249,16 +249,6 @@
     {
       "altitude": 170,
       "dateAdded": "2020-08-19",
-      "group": "sn4",
-      "latitude": 43.7657948795148,
-      "longitude": -79.51084949101563,
-      "name": "sn4r1",
-      "status": "proposed",
-      "type": "router"
-    },    
-    {
-      "altitude": 170,
-      "dateAdded": "2020-08-19",
       "group": "sn3",
       "latitude": 43.746119462177525,
       "longitude": -79.21805129296112,
