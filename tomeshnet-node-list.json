@@ -381,6 +381,16 @@
     },
     {
       "altitude": 170,
+      "dateAdded": "2020-08-19",
+      "group": "sn3",
+      "latitude": 43.746119462177525,
+      "longitude": -79.21805129296112,
+      "name": "sn3r2",
+      "status": "proposed",
+      "type": "router"
+    },
+    {
+      "altitude": 170,
       "antennaCone": 120,
       "antennaDirection": 316,
       "antennaDistance": 2500,
