@@ -94,7 +94,7 @@
     {
       "altitude": 170,
       "antennaCone": 120,
-      "antennaDirection": 30,
+      "antennaDirection": 35,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
       "antennaType": "sector",
