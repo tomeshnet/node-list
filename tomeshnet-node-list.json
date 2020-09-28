@@ -76,8 +76,7 @@
       "dateAdded": "2020-07-23",
       "group": "sn1",
       "images": [
-        "sn1a2.jpg",
-        "sn1a2-hw.jpg"
+        "sn1a3-4.jpg",
       ],
       "ipv4": "100.64.12.2",
       "ipv6": "fd54:4f4d:5348:400c::2",
@@ -101,8 +100,7 @@
       "dateAdded": "2020-07-23",
       "group": "sn1",
       "images": [
-        "sn1a2.jpg",
-        "sn1a2-hw.jpg"
+        "sn1a3-4.jpg"
       ],
       "ipv4": "100.64.13.2",
       "ipv6": "fd54:4f4d:5348:400d::2",
