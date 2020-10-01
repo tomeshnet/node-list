@@ -224,7 +224,7 @@
       "longitude": -79.3411666186325,
       "mode": "ap",
       "model": "xxxx",
-      "name": "sn2ptp2",
+      "name": "sn2ptp3",
       "router": "sn2r2",
       "ssid": "tomesh-airmaxac-sn2ptp3",
       "status": "proposed",
@@ -527,9 +527,9 @@
       "longitude": -79.200207,
       "mode": "ap",
       "model": "xxxx",
-      "name": "sn5a3",
+      "name": "sn4a3",
       "router": "sn5r1",
-      "ssid": "tomesh-airmaxac-sn5a3",
+      "ssid": "tomesh-airmaxac-sn4a3",
       "status": "proposed",
       "type": "antenna"
     }
