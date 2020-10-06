@@ -128,7 +128,7 @@
     },    
     {
       "altitude": 175,
-      "antennaCone": 120,
+      "antennaCone": 90,
       "antennaDirection": 312,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -138,7 +138,7 @@
       "latitude": 43.70552984996365,
       "longitude": -79.3420302899353,
       "mode": "ap",
-      "model": "lap-120",
+      "model": "lap-gps",
       "name": "sn2a1",
       "router": "sn2r1",
       "ssid": "tomesh-airmaxac-sn2a1",
@@ -147,7 +147,7 @@
     },
     {
       "altitude": 175,
-      "antennaCone": 120,
+      "antennaCone": 90,
       "antennaDirection": 80,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -157,7 +157,7 @@
       "latitude": 43.7055376058437,
       "longitude": -79.34083938913268,
       "mode": "ap",
-      "model": "lap-120",
+      "model": "lap-gps",
       "name": "sn2a2",
       "router": "sn2r1",
       "ssid": "tomesh-airmaxac-sn2a2",
@@ -231,7 +231,7 @@
       "type": "antenna"
     },
     {
-      "altitude": 170,
+      "altitude": 196,
       "dateAdded": "2020-08-19",
       "group": "sn2",
       "latitude": 43.700929826372594,
@@ -260,7 +260,7 @@
     },
     {
       "altitude": 196,
-      "antennaCone": 120,
+      "antennaCone": 90,
       "antennaDirection": 140,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -279,7 +279,7 @@
     },
     {
       "altitude": 196,
-      "antennaCone": 120,
+      "antennaCone": 90,
       "antennaDirection": 230,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -308,7 +308,7 @@
     },
     {
       "altitude": 170,
-      "antennaCone": 120,
+      "antennaCone": 90,
       "antennaDirection": 316,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -327,7 +327,7 @@
     },
     {
       "altitude": 170,
-      "antennaCone": 120,
+      "antennaCone": 90,
       "antennaDirection": 233,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -412,7 +412,7 @@
     },
     {
       "altitude": 170,
-      "antennaCone": 120,
+      "antennaCone": 90,
       "antennaDirection": 152,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -431,7 +431,7 @@
     },
     {
       "altitude": 170,
-      "antennaCone": 120,
+      "antennaCone": 90,
       "antennaDirection": 62,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -478,7 +478,7 @@
     },
     {
       "altitude": 170,
-      "antennaCone": 120,
+      "antennaCone": 90,
       "antennaDirection": 315,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -497,7 +497,7 @@
     },
     {
       "altitude": 170,
-      "antennaCone": 120,
+      "antennaCone": 90,
       "antennaDirection": 43,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -516,7 +516,7 @@
     },
     {
       "altitude": 170,
-      "antennaCone": 120,
+      "antennaCone": 90,
       "antennaDirection":133 ,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
