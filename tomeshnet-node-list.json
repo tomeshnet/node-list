@@ -117,7 +117,7 @@
       "type": "antenna"
     },
     {
-      "altitude": 170,
+      "altitude": 175,
       "dateAdded": "2020-08-19",
       "group": "sn2",
       "latitude": 43.70536927477093,
@@ -127,7 +127,7 @@
       "type": "router"
     },    
     {
-      "altitude": 170,
+      "altitude": 175,
       "antennaCone": 120,
       "antennaDirection": 312,
       "antennaDistance": 2500,
@@ -146,7 +146,7 @@
       "type": "antenna"
     },
     {
-      "altitude": 170,
+      "altitude": 175,
       "antennaCone": 120,
       "antennaDirection": 80,
       "antennaDistance": 2500,
@@ -165,7 +165,7 @@
       "type": "antenna"
     },
     {
-      "altitude": 170,
+      "altitude": 175,
       "antennaDirection": 190,
       "antennaDistance": 500,
       "antennaProtocol": "airmaxac",
@@ -183,7 +183,7 @@
       "type": "antenna"
     },
     {
-      "altitude": 170,
+      "altitude": 182,
       "dateAdded": "2020-08-19",
       "group": "sn2",
       "latitude": 43.703112264996996,
@@ -193,7 +193,7 @@
       "type": "router"
     },  
     {
-      "altitude": 170,
+      "altitude": 182,
       "antennaCone": 20,
       "antennaDirection": 4,
       "antennaDistance": 500,
@@ -212,7 +212,7 @@
       "type": "antenna"
     },
     {
-      "altitude": 170,
+      "altitude": 182,
       "antennaCone": 20,
       "antennaDirection": 200,
       "antennaDistance": 500,
@@ -241,7 +241,7 @@
       "type": "router"
     },  
     {
-      "altitude": 170,
+      "altitude": 196,
       "antennaDirection": 200,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -259,7 +259,7 @@
       "type": "antenna"
     },
     {
-      "altitude": 170,
+      "altitude": 196,
       "antennaCone": 120,
       "antennaDirection": 140,
       "antennaDistance": 2500,
@@ -278,7 +278,7 @@
       "type": "antenna"
     },
     {
-      "altitude": 170,
+      "altitude": 196,
       "antennaCone": 120,
       "antennaDirection": 230,
       "antennaDistance": 2500,
