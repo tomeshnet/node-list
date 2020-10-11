@@ -128,7 +128,7 @@
     },    
     {
       "altitude": 175,
-      "antennaCone": 90,
+      "antennaCone": 120,
       "antennaDirection": 312,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -147,7 +147,7 @@
     },
     {
       "altitude": 175,
-      "antennaCone": 90,
+      "antennaCone": 120,
       "antennaDirection": 80,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -260,7 +260,7 @@
     },
     {
       "altitude": 196,
-      "antennaCone": 90,
+      "antennaCone": 120,
       "antennaDirection": 140,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -279,7 +279,7 @@
     },
     {
       "altitude": 196,
-      "antennaCone": 90,
+      "antennaCone": 120,
       "antennaDirection": 230,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -308,7 +308,7 @@
     },
     {
       "altitude": 208,
-      "antennaCone": 90,
+      "antennaCone": 120,
       "antennaDirection": 316,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -327,7 +327,7 @@
     },
     {
       "altitude": 208,
-      "antennaCone": 90,
+      "antennaCone": 120,
       "antennaDirection": 233,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -412,7 +412,7 @@
     },
     {
       "altitude": 201,
-      "antennaCone": 90,
+      "antennaCone": 120,
       "antennaDirection": 152,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -431,7 +431,7 @@
     },
     {
       "altitude": 201,
-      "antennaCone": 90,
+      "antennaCone": 120,
       "antennaDirection": 62,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -478,7 +478,7 @@
     },
     {
       "altitude": 168,
-      "antennaCone": 90,
+      "antennaCone": 120,
       "antennaDirection": 315,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -497,7 +497,7 @@
     },
     {
       "altitude": 168,
-      "antennaCone": 90,
+      "antennaCone": 120,
       "antennaDirection": 43,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
@@ -516,7 +516,7 @@
     },
     {
       "altitude": 168,
-      "antennaCone": 90,
+      "antennaCone": 120,
       "antennaDirection":133 ,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
