@@ -20,7 +20,6 @@
                 "required": [
                     "altitude",
                     "dateAdded",
-                    "group",
                     "latitude",
                     "longitude",
                     "name",
