@@ -117,6 +117,19 @@
       "type": "antenna"
     },
     {
+      "altitude": 100,
+      "antennaProtocol": "airmaxac",
+      "dateAdded": "2020-10-21",
+      "latitude": 43.6834,
+      "longitude": -79.459597,
+      "mode": "station",
+      "model": "nbe-5ac-gen2",
+      "name": "n4a1",
+      "ssid": "tomesh-airmaxac-sn1a4",
+      "status": "active",
+      "type": "antenna"
+    },
+    {
       "altitude": 175,
       "dateAdded": "2020-08-19",
       "group": "sn2",
