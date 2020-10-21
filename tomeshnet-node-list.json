@@ -120,6 +120,9 @@
       "altitude": 100,
       "antennaProtocol": "airmaxac",
       "dateAdded": "2020-10-21",
+      "images": [
+        "n4a1.jpg"
+      ]
       "latitude": 43.6834,
       "longitude": -79.459597,
       "mode": "station",
