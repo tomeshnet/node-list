@@ -563,7 +563,7 @@
       "mode": "mesh",
       "model": "mr16",
       "name": "n2a1",
-      "ssid": "tomesh-80211s",
+      "ssid": "tomesh-80211s-mesh",
       "status": "active",
       "type": "antenna"
     }
