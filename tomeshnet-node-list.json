@@ -120,6 +120,7 @@
       "altitude": 100,
       "antennaProtocol": "airmaxac",
       "dateAdded": "2020-10-12",
+      "group": "n3",
       "images": [
         "n3a1.jpg"
       ],
