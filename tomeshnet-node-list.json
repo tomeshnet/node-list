@@ -117,6 +117,23 @@
       "type": "antenna"
     },
     {
+      "altitude": 100,
+      "antennaProtocol": "airmaxac",
+      "dateAdded": "2020-10-12",
+      "group": "n3",
+      "images": [
+        "n3a1.jpg"
+      ],
+      "latitude": 43.67243126339377,
+      "longitude": -79.47159635819703,
+      "mode": "station",
+      "model": "loco-ac5",
+      "name": "n3a1",
+      "ssid": "tomesh-airmaxac-sn1a4",
+      "status": "active",
+      "type": "antenna"
+    },
+    {
       "altitude": 147,
       "antennaProtocol": "airmaxac",
       "dateAdded": "2020-10-21",
