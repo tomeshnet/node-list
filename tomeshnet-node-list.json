@@ -309,7 +309,7 @@
       "mode": "ap",
       "model": "lap-120",
       "name": "sn3a1",
-      "router": "sn3r1",
+      "router": "sn2r1",
       "ssid": "tomesh-airmaxac-sn3a1",
       "status": "proposed",
       "type": "antenna"
@@ -366,7 +366,7 @@
         "mode": "ap",
         "model": "pbe-5ac-gen2",
         "name": "sn3p3",
-        "router": "sn3r1",
+        "router": "sn3r2",
         "ssid": "tomesh-airmaxac-sn3p3",
         "status": "proposed",
         "type": "antenna"
