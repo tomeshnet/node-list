@@ -566,6 +566,40 @@
       "ssid": "tomesh-airmaxac-sn4a3",
       "status": "proposed",
       "type": "antenna"
+    },
+    {
+      "altitude": 170,
+      "antennaProtocol": "80211s",
+      "antennaCone": 120,
+      "antennaDirection":340 ,
+      "antennaDistance": 200,
+      "dateAdded": "2020-03-01",
+      "group": "n1",
+      "latitude": 43.6833846775,
+      "longitude": -79.525557839,
+      "mode": "mesh",
+      "model": "nano-m5",
+      "name": "n1a1",
+      "ssid": "tomesh-80211s-mesh",
+      "status": "active",
+      "type": "antenna"
+    },
+    {
+      "altitude": 119,
+      "antennaProtocol": "80211s-mesh",
+      "antennaCone": 170,
+      "antennaDirection":350 ,
+      "antennaDistance": 50,
+      "dateAdded": "2020-03-01",
+      "group": "n2",
+      "latitude": 43.68870113,
+      "longitude": -79.51536812,
+      "mode": "mesh",
+      "model": "mr16",
+      "name": "n2a1",
+      "ssid": "tomesh-80211s-mesh",
+      "status": "active",
+      "type": "antenna"
     }
   ]
 }
