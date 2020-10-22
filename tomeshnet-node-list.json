@@ -546,13 +546,13 @@
       "mode": "mesh",
       "model": "nano-m5",
       "name": "n1a1",
-      "ssid": "tomesh-80211s",
+      "ssid": "tomesh-80211s-mesh",
       "status": "active",
       "type": "antenna"
     },
     {
       "altitude": 119,
-      "antennaProtocol": "80211s",
+      "antennaProtocol": "80211s-mesh",
       "antennaCone": 170,
       "antennaDirection":350 ,
       "antennaDistance": 50,
