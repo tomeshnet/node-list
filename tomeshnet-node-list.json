@@ -317,7 +317,7 @@
     {
       "altitude": 208,
       "antennaCone": 20,
-      "antennaDirection": 111,
+      "antennaDirection": 95,
       "antennaDistance": 500,
       "antennaProtocol": "airmaxac",
       "antennaType": "narrow",
