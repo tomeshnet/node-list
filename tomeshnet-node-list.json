@@ -156,7 +156,7 @@
       "group": "sn2",
       "latitude": 43.703112264996996,
       "longitude": -79.3414369309597,
-      "name": "sn2r2",
+      "name": "sn2r1",
       "status": "proposed",
       "type": "router"
     },
@@ -174,7 +174,7 @@
       "mode": "ap",
       "model": "lap-120",
       "name": "sn2a1",
-      "router": "sn2r2",
+      "router": "sn2r1",
       "ssid": "tomesh-airmaxac-sn2a1",
       "status": "proposed",
       "type": "antenna"
@@ -193,7 +193,7 @@
       "mode": "ap",
       "model": "lap-120",
       "name": "sn2a2",
-      "router": "sn2r2",
+      "router": "sn2r1",
       "ssid": "tomesh-airmaxac-sn2a2",
       "status": "proposed",
       "type": "antenna"
@@ -212,7 +212,7 @@
       "mode": "ap",
       "model": "nbe-5ac-gen2",
       "name": "sn2p3",
-      "router": "sn2r2",
+      "router": "sn2r1",
       "ssid": "tomesh-airmaxac-sn2p3",
       "status": "proposed",
       "type": "antenna"
@@ -223,7 +223,7 @@
       "group": "sn2",
       "latitude": 43.700929826372594,
       "longitude": -79.34284777290154,
-      "name": "sn2r3",
+      "name": "sn2r2",
       "status": "proposed",
       "type": "router"
     },  
@@ -240,7 +240,7 @@
       "mode": "station",
       "model": "nbe-5ac-gen2",
       "name": "sn2p4",
-      "router": "sn2r3",
+      "router": "sn2r2",
       "ssid": "tomesh-airmaxac-sn2p3",
       "status": "proposed",
       "type": "antenna"
@@ -259,7 +259,7 @@
       "mode": "ap",
       "model": "lap-120",
       "name": "sn2a3",
-      "router": "sn2r3",
+      "router": "sn2r2",
       "ssid": "tomesh-airmaxac-sn2a3",
       "status": "proposed",
       "type": "antenna"
@@ -278,7 +278,7 @@
       "mode": "ap",
       "model": "lap-120",
       "name": "sn2a4",
-      "router": "sn2r3",
+      "router": "sn2r2",
       "ssid": "tomesh-airmaxac-sn2a4",
       "status": "proposed",
       "type": "antenna"
