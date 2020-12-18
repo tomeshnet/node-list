@@ -459,7 +459,7 @@
       "model": "pbe-5ac-gen2",
       "name": "sn4p1",
       "router": "sn4r1",
-      "ssid": "tomesh-airmaxac-sn4p1",
+      "ssid": "tomesh-airmaxac-sn3p3",
       "status": "proposed",
       "type": "antenna"
     },
