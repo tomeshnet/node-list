@@ -335,7 +335,7 @@
       "altitude": 208,
       "antennaCone": 20,
       "antennaDirection": 92,
-      "antennaDistance": 550,
+      "antennaDistance": 560,
       "antennaProtocol": "airmaxac",
       "antennaType": "narrow",
       "dateAdded": "2020-08-19",
@@ -353,7 +353,7 @@
     {
         "altitude": 208,
         "antennaCone": 12,
-        "antennaDirection": 36,
+        "antennaDirection": 30,
         "antennaDistance": 3000,
         "antennaProtocol": "airmaxac",
         "antennaType": "narrow",
@@ -381,8 +381,6 @@
     },
     {
       "altitude": 201,
-      "antennaDirection": 219,
-      "antennaDistance": 500,
       "antennaProtocol": "airmaxac",
       "antennaType": "narrow",
       "dateAdded": "2020-08-19",
