@@ -211,9 +211,9 @@
       "longitude": -79.3411666186325,
       "mode": "ap",
       "model": "nbe-5ac-gen2",
-      "name": "sn2p3",
+      "name": "sn2p1",
       "router": "sn2r1",
-      "ssid": "tomesh-airmaxac-sn2p3",
+      "ssid": "tomesh-airmaxac-sn2p1",
       "status": "proposed",
       "type": "antenna"
     },
@@ -239,9 +239,9 @@
       "longitude": -79.34235751943511,
       "mode": "station",
       "model": "nbe-5ac-gen2",
-      "name": "sn2p4",
+      "name": "sn2p2",
       "router": "sn2r2",
-      "ssid": "tomesh-airmaxac-sn2p3",
+      "ssid": "tomesh-airmaxac-sn2p1",
       "status": "proposed",
       "type": "antenna"
     },
