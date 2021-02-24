@@ -472,6 +472,9 @@
       "altitude": 168,
       "dateAdded": "2021-02-24",
       "group": "sn4",
+      "images": [
+        "sn4r1-hw.jpg"
+      ],
       "latitude": 43.76613582473674,
       "longitude": -79.2000086983857,
       "name": "sn4r1",
@@ -486,6 +489,9 @@
       "antennaType": "narrow",
       "dateAdded": "2021-02-24",
       "group": "sn4",
+      "images": [
+        "sn4a1-a2-p1-hw.jpg"
+      ],
       "latitude": 43.76631790327783,
       "longitude": -79.20019779412125,
       "mode": "station",
@@ -505,6 +511,9 @@
       "antennaType": "sector",
       "dateAdded": "2021-02-24",
       "group": "sn4",
+      "images": [
+        "sn4a1-a2-p1-hw.jpg"
+      ],
       "latitude": 43.76631790327783,
       "longitude": -79.20019779412125,
       "mode": "ap",
@@ -524,6 +533,9 @@
       "antennaType": "sector",
       "dateAdded": "2021-02-24",
       "group": "sn4",
+      "images": [
+        "sn4a1-a2-p1-hw.jpg"
+      ],
       "latitude": 43.76631790327783,
       "longitude": -79.20019779412125,
       "mode": "ap",
@@ -543,6 +555,9 @@
       "antennaType": "sector",
       "dateAdded": "2021-02-24",
       "group": "sn4",
+      "images": [
+        "sn4a3.jpg"
+      ],
       "latitude": 43.76594406056763,
       "longitude": -79.20007843582009,
       "mode": "ap",
