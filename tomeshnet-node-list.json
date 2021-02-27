@@ -226,7 +226,18 @@
       "name": "sn2r2",
       "status": "proposed",
       "type": "router"
-    },  
+    },
+    {
+      "altitude": 196,
+      "dateAdded": "2020-08-19",
+      "group": "sn2",
+      "latitude": 43.700929826372594,
+      "longitude": -79.34284777290154,
+      "name": "sn2r3",
+      "router": "sn2r2",
+      "status": "proposed",
+      "type": "router"
+    },
     {
       "altitude": 196,
       "antennaDirection": 200,
@@ -240,7 +251,7 @@
       "mode": "station",
       "model": "nbe-5ac-gen2",
       "name": "sn2p2",
-      "router": "sn2r2",
+      "router": "sn2r3",
       "ssid": "tomesh-airmaxac-sn2p1",
       "status": "proposed",
       "type": "antenna"
@@ -256,7 +267,7 @@
       "mode": "station",
       "model": "af-5g30-s45",
       "name": "sn2p3",
-      "router": "sn2r2",
+      "router": "sn2r3",
       "ssid": "tomesh-airfiber-sn3p4",
       "status": "proposed",
       "type": "antenna"
@@ -286,7 +297,7 @@
       "antennaDirection": 230,
       "antennaDistance": 2500,
       "antennaProtocol": "airmaxac",
-      "antennaType": "beam",
+      "antennaType": "sector",
       "dateAdded": "2020-08-19",
       "group": "sn2",
       "latitude": 43.700558124375256,
