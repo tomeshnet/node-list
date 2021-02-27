@@ -320,7 +320,18 @@
       "status": "proposed",
       "type": "router"
     },
-     {
+    {
+      "altitude": 208,
+      "dateAdded": "2020-08-19",
+      "group": "sn3",
+      "latitude": 43.746119462177525,
+      "longitude": -79.21805129296112,
+      "name": "sn3r3",
+      "router": "sn3r1",
+      "status": "proposed",
+      "type": "router"
+    },
+    {
       "altitude": 135,
       "antennaCone": 120,
       "antennaDirection": 316,
@@ -391,7 +402,7 @@
         "mode": "ap",
         "model": "pbe-5ac-gen2",
         "name": "sn3p3",
-        "router": "sn3r1",
+        "router": "sn3r3",
         "ssid": "tomesh-airmaxac-sn3p3",
         "status": "proposed",
         "type": "antenna"
@@ -410,7 +421,7 @@
       "mode": "ap",
       "model": "af-5g30-s45",
       "name": "sn3p4",
-      "router": "sn3r1",
+      "router": "sn3r3",
       "ssid": "tomesh-airfiber-sn3p4",
       "status": "proposed",
       "type": "antenna"
