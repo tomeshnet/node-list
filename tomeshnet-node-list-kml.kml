@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <name>Toronto Community Network</name>
+        <Folder id="2">
+            <Style id="7">
+                <IconStyle id="8">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="9">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="12">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="14">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="18">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="19">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="22">
+                <IconStyle id="23">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="27">
+                <IconStyle id="28">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="29">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="32">
+                <IconStyle id="33">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="34">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="37">
+                <IconStyle id="38">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="39">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="137">
+                <IconStyle id="138">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="139">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="142">
+                <IconStyle id="143">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="144">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="147">
+                <IconStyle id="148">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="149">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="152">
+                <IconStyle id="153">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="154">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="157">
+                <IconStyle id="158">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="159">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="162">
+                <IconStyle id="163">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="164">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="167">
+                <IconStyle id="168">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="169">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Active Nodes</name>
+            <visibility>1</visibility>
+            <open>0</open>
+            <Placemark id="6">
+                <name>sn1r1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn1r1</h1><h2>active</h2>Type: router<br>Altitude: 170<br>Date Added: 2020-07-23<br>Group: sn1<br>Model: er-x-sfp<br>IPv4: 100.64.10.1<br>IPv6: fd54:4f4d:5348:400a::1<br>Mode: None<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1r1-hw.jpg><img alt=sn1r1-hw.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1r1-hw.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#7</styleUrl>
+                <Point id="5">
+                    <coordinates>-79.49164465910721,43.672975276182896,170</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="11">
+                <name>sn1a1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn1a1</h1><h2>active</h2>Type: antenna<br>Altitude: 170<br>Date Added: 2020-07-23<br>Group: sn1<br>Model: lap-120<br>IPv4: 100.64.10.2<br>IPv6: fd54:4f4d:5348:400a::2<br>Mode: ap<br>Connected Router: sn1r1<br>SSID: tomesh-airmaxac-sn1a1<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 200<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a1.jpg><img alt=sn1a1.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a1.jpg width="300"></a><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a1-hw.jpg><img alt=sn1a1-hw.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a1-hw.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#12</styleUrl>
+                <Point id="10">
+                    <coordinates>-79.49186460024643,43.67295733096905,170</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="16">
+                <name>sn1a2</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn1a2</h1><h2>active</h2>Type: antenna<br>Altitude: 170<br>Date Added: 2020-07-23<br>Group: sn1<br>Model: lap-120<br>IPv4: 100.64.11.2<br>IPv6: fd54:4f4d:5348:400b::2<br>Mode: ap<br>Connected Router: sn1r1<br>SSID: tomesh-airmaxac-sn1a2<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 275<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a2.jpg><img alt=sn1a2.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a2.jpg width="300"></a><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a2-hw.jpg><img alt=sn1a2-hw.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a2-hw.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#17</styleUrl>
+                <Point id="15">
+                    <coordinates>-79.49168288058567,43.67274344300706,170</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="21">
+                <name>sn1a3</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn1a3</h1><h2>active</h2>Type: antenna<br>Altitude: 170<br>Date Added: 2020-09-28<br>Group: sn1<br>Model: lap-120<br>IPv4: 100.64.12.2<br>IPv6: fd54:4f4d:5348:400c::2<br>Mode: ap<br>Connected Router: sn1r1<br>SSID: tomesh-airmaxac-sn1a3<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 360<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a3-a4-hw.jpg><img alt=sn1a3-a4-hw.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a3-a4-hw.jpg width="300"></a><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a3.jpg><img alt=sn1a3.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a3.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#22</styleUrl>
+                <Point id="20">
+                    <coordinates>-79.4913737559967,43.67314551294464,170</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="26">
+                <name>sn1a4</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn1a4</h1><h2>active</h2>Type: antenna<br>Altitude: 170<br>Date Added: 2020-09-28<br>Group: sn1<br>Model: lap-120<br>IPv4: 100.64.13.2<br>IPv6: fd54:4f4d:5348:400d::2<br>Mode: ap<br>Connected Router: sn1r1<br>SSID: tomesh-airmaxac-sn1a4<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 35<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a3-a4-hw.jpg><img alt=sn1a3-a4-hw.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a3-a4-hw.jpg width="300"></a><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a4.jpg><img alt=sn1a4.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn1a4.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#27</styleUrl>
+                <Point id="25">
+                    <coordinates>-79.4913737559967,43.67314551294464,170</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="31">
+                <name>n3a1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>n3a1</h1><h2>active</h2>Type: antenna<br>Altitude: 100<br>Date Added: 2020-10-12<br>Group: n3<br>Model: loco-ac5<br>IPv4: None<br>IPv6: None<br>Mode: station<br>Connected Router: None<br>SSID: tomesh-airmaxac-sn1a4<br><br>Antenna Type: None<br>Antenna Cone: None<br>Antenna Direction: None<br>Antenna Distance: None<br>Antenna Protocol: airmaxac<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/n3a1.jpg><img alt=n3a1.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/n3a1.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#32</styleUrl>
+                <Point id="30">
+                    <coordinates>-79.47159635819703,43.67243126339377,100</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="36">
+                <name>n4a1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>n4a1</h1><h2>active</h2>Type: antenna<br>Altitude: 150<br>Date Added: 2020-10-21<br>Group: n4<br>Model: nbe-5ac-gen2<br>IPv4: None<br>IPv6: None<br>Mode: station<br>Connected Router: None<br>SSID: tomesh-airmaxac-sn1a4<br><br>Antenna Type: None<br>Antenna Cone: None<br>Antenna Direction: None<br>Antenna Distance: None<br>Antenna Protocol: airmaxac<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/n4a1.jpg><img alt=n4a1.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/n4a1.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#37</styleUrl>
+                <Point id="35">
+                    <coordinates>-79.459597,43.6834,150</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="136">
+                <name>sn4r1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn4r1</h1><h2>active</h2>Type: router<br>Altitude: 168<br>Date Added: 2021-02-24<br>Group: sn4<br>Model: None<br>IPv4: 100.64.22.1<br>IPv6: fd54:4f4d:5348:4016::1<br>Mode: None<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn4r1-hw.jpg><img alt=sn4r1-hw.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn4r1-hw.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#137</styleUrl>
+                <Point id="135">
+                    <coordinates>-79.2000086983857,43.76613582473674,168</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="141">
+                <name>sn4p1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn4p1</h1><h2>active</h2>Type: antenna<br>Altitude: 168<br>Date Added: 2021-02-24<br>Group: sn4<br>Model: pbe-5ac-gen2<br>IPv4: 100.126.0.19<br>IPv6: fd54:4f4d:5348:7800::13<br>Mode: station<br>Connected Router: sn4r1<br>SSID: tomesh-airmaxac-sn3p3<br><br>Antenna Type: narrow<br>Antenna Cone: None<br>Antenna Direction: 218<br>Antenna Distance: 500<br>Antenna Protocol: airmaxac<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn4a1-a2-p1-hw.jpg><img alt=sn4a1-a2-p1-hw.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn4a1-a2-p1-hw.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#142</styleUrl>
+                <Point id="140">
+                    <coordinates>-79.20019779412125,43.76631790327783,168</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="146">
+                <name>sn4a1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn4a1</h1><h2>active</h2>Type: antenna<br>Altitude: 168<br>Date Added: 2021-02-24<br>Group: sn4<br>Model: lap-120<br>IPv4: 100.64.22.2<br>IPv6: fd54:4f4d:5348:4016::2<br>Mode: ap<br>Connected Router: sn4r1<br>SSID: tomesh-airmaxac-sn4a1<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 218<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn4a1-a2-p1-hw.jpg><img alt=sn4a1-a2-p1-hw.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn4a1-a2-p1-hw.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#147</styleUrl>
+                <Point id="145">
+                    <coordinates>-79.20019779412125,43.76631790327783,168</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="151">
+                <name>sn4a2</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn4a2</h1><h2>active</h2>Type: antenna<br>Altitude: 168<br>Date Added: 2021-02-24<br>Group: sn4<br>Model: lap-120<br>IPv4: 100.64.23.2<br>IPv6: fd54:4f4d:5348:4017::2<br>Mode: ap<br>Connected Router: sn4r1<br>SSID: tomesh-airmaxac-sn4a2<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 307<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn4a1-a2-p1-hw.jpg><img alt=sn4a1-a2-p1-hw.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn4a1-a2-p1-hw.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#152</styleUrl>
+                <Point id="150">
+                    <coordinates>-79.20019779412125,43.76631790327783,168</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="156">
+                <name>sn4a3</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn4a3</h1><h2>active</h2>Type: antenna<br>Altitude: 168<br>Date Added: 2021-02-24<br>Group: sn4<br>Model: lap-120<br>IPv4: 100.64.24.2<br>IPv6: fd54:4f4d:5348:4018::2<br>Mode: ap<br>Connected Router: sn4r1<br>SSID: tomesh-airmaxac-sn4a3<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 142<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn4a3-hw.jpg><img alt=sn4a3-hw.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/sn4a3-hw.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#157</styleUrl>
+                <Point id="155">
+                    <coordinates>-79.20007843582009,43.76594406056763,168</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="161">
+                <name>n1a1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>n1a1</h1><h2>active</h2>Type: antenna<br>Altitude: 170<br>Date Added: 2020-03-01<br>Group: n1<br>Model: nano-m5<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: None<br>SSID: tomesh-80211s-mesh<br><br>Antenna Type: None<br>Antenna Cone: 120<br>Antenna Direction: 340<br>Antenna Distance: 350<br>Antenna Protocol: 80211s<br><br><a href=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/n1a1.jpg><img alt=n1a1.jpg src=https://raw.githubusercontent.com/tomeshnet/node-list/5facaff9ec84eecb4c1f453ff1606aa8db8527c4/images/n1a1.jpg width="300"></a><br>]]></description>
+                <Snippet/>
+                <styleUrl>#162</styleUrl>
+                <Point id="160">
+                    <coordinates>-79.525557839,43.6833846775,170</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="166">
+                <name>n2a1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>n2a1</h1><h2>active</h2>Type: antenna<br>Altitude: 119<br>Date Added: 2020-03-01<br>Group: n2<br>Model: mr16<br>IPv4: None<br>IPv6: None<br>Mode: mesh<br>Connected Router: None<br>SSID: tomesh-80211s-mesh<br><br>Antenna Type: None<br>Antenna Cone: 170<br>Antenna Direction: 350<br>Antenna Distance: 50<br>Antenna Protocol: 80211s-mesh<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#167</styleUrl>
+                <Point id="165">
+                    <coordinates>-79.51536812,43.68870113,119</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="3">
+            <Style id="42">
+                <IconStyle id="43">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="44">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="47">
+                <IconStyle id="48">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="49">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="52">
+                <IconStyle id="53">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="54">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="57">
+                <IconStyle id="58">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="59">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="62">
+                <IconStyle id="63">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="64">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="67">
+                <IconStyle id="68">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="69">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="72">
+                <IconStyle id="73">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="74">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="77">
+                <IconStyle id="78">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="79">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="82">
+                <IconStyle id="83">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="84">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="87">
+                <IconStyle id="88">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="89">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="92">
+                <IconStyle id="93">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="94">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="97">
+                <IconStyle id="98">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="99">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="102">
+                <IconStyle id="103">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="104">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="107">
+                <IconStyle id="108">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="109">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="112">
+                <IconStyle id="113">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="114">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="117">
+                <IconStyle id="118">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="119">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="122">
+                <IconStyle id="123">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="124">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="127">
+                <IconStyle id="128">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="129">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="132">
+                <IconStyle id="133">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="134">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Proposed Nodes</name>
+            <visibility>1</visibility>
+            <open>0</open>
+            <Placemark id="41">
+                <name>sn2r1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn2r1</h1><h2>proposed</h2>Type: router<br>Altitude: 182<br>Date Added: 2020-08-19<br>Group: sn2<br>Model: None<br>IPv4: None<br>IPv6: None<br>Mode: None<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#42</styleUrl>
+                <Point id="40">
+                    <coordinates>-79.3414369309597,43.703112264996996,182</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="46">
+                <name>sn2a1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn2a1</h1><h2>proposed</h2>Type: antenna<br>Altitude: 182<br>Date Added: 2020-08-19<br>Group: sn2<br>Model: lap-120<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: sn2r1<br>SSID: tomesh-airmaxac-sn2a1<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 312<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#47</styleUrl>
+                <Point id="45">
+                    <coordinates>-79.34178695923615,43.702765174340264,182</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="51">
+                <name>sn2a2</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn2a2</h1><h2>proposed</h2>Type: antenna<br>Altitude: 182<br>Date Added: 2020-08-19<br>Group: sn2<br>Model: lap-120<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: sn2r1<br>SSID: tomesh-airmaxac-sn2a2<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 80<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#52</styleUrl>
+                <Point id="50">
+                    <coordinates>-79.3411666186325,43.703261211975445,182</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="56">
+                <name>sn2p1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn2p1</h1><h2>proposed</h2>Type: antenna<br>Altitude: 182<br>Date Added: 2020-08-19<br>Group: sn2<br>Model: nbe-5ac-gen2<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: sn2r1<br>SSID: tomesh-airmaxac-sn2p1<br><br>Antenna Type: narrow<br>Antenna Cone: 20<br>Antenna Direction: 200<br>Antenna Distance: 500<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#57</styleUrl>
+                <Point id="55">
+                    <coordinates>-79.3411666186325,43.703261211975445,182</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="61">
+                <name>sn2r2</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn2r2</h1><h2>proposed</h2>Type: router<br>Altitude: 196<br>Date Added: 2020-08-19<br>Group: sn2<br>Model: None<br>IPv4: None<br>IPv6: None<br>Mode: None<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#62</styleUrl>
+                <Point id="60">
+                    <coordinates>-79.34284777290154,43.700929826372594,196</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="66">
+                <name>sn2p2</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn2p2</h1><h2>proposed</h2>Type: antenna<br>Altitude: 196<br>Date Added: 2020-08-19<br>Group: sn2<br>Model: nbe-5ac-gen2<br>IPv4: None<br>IPv6: None<br>Mode: station<br>Connected Router: sn2r2<br>SSID: tomesh-airmaxac-sn2p1<br><br>Antenna Type: narrow<br>Antenna Cone: None<br>Antenna Direction: 200<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#67</styleUrl>
+                <Point id="65">
+                    <coordinates>-79.34235751943511,43.701008001066654,196</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="71">
+                <name>sn2p3</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn2p3</h1><h2>proposed</h2>Type: antenna<br>Altitude: 196<br>Date Added: 2020-08-19<br>Group: sn2<br>Model: af-5g30-s45<br>IPv4: None<br>IPv6: None<br>Mode: station<br>Connected Router: sn2r2<br>SSID: tomesh-airfiber-sn3p4<br><br>Antenna Type: narrow<br>Antenna Cone: None<br>Antenna Direction: None<br>Antenna Distance: None<br>Antenna Protocol: airfiber<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#72</styleUrl>
+                <Point id="70">
+                    <coordinates>-79.34235751943511,43.701008001066654,196</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="76">
+                <name>sn2a3</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn2a3</h1><h2>proposed</h2>Type: antenna<br>Altitude: 196<br>Date Added: 2020-08-19<br>Group: sn2<br>Model: lap-120<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: sn2r2<br>SSID: tomesh-airmaxac-sn2a3<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 140<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#77</styleUrl>
+                <Point id="75">
+                    <coordinates>-79.34235751943511,43.701008001066654,196</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="81">
+                <name>sn2a4</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn2a4</h1><h2>proposed</h2>Type: antenna<br>Altitude: 196<br>Date Added: 2020-08-19<br>Group: sn2<br>Model: lap-120<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: sn2r2<br>SSID: tomesh-airmaxac-sn2a4<br><br>Antenna Type: beam<br>Antenna Cone: 120<br>Antenna Direction: 230<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#82</styleUrl>
+                <Point id="80">
+                    <coordinates>-79.34306562261504,43.700558124375256,196</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="86">
+                <name>sn3r1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn3r1</h1><h2>proposed</h2>Type: router<br>Altitude: 208<br>Date Added: 2020-08-19<br>Group: sn3<br>Model: None<br>IPv4: None<br>IPv6: None<br>Mode: None<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#87</styleUrl>
+                <Point id="85">
+                    <coordinates>-79.21805129296112,43.746119462177525,208</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="91">
+                <name>sn3a1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn3a1</h1><h2>proposed</h2>Type: antenna<br>Altitude: 135<br>Date Added: 2020-09-10<br>Group: sn3<br>Model: lap-120<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: sn3r1<br>SSID: tomesh-airmaxac-sn3a1<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 316<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#92</styleUrl>
+                <Point id="90">
+                    <coordinates>-79.21822434815053,43.74634342734695,135</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="96">
+                <name>sn3a2</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn3a2</h1><h2>proposed</h2>Type: antenna<br>Altitude: 208<br>Date Added: 2020-09-10<br>Group: sn3<br>Model: lap-120<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: sn3r1<br>SSID: tomesh-airmaxac-sn3a2<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 233<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#97</styleUrl>
+                <Point id="95">
+                    <coordinates>-79.21822434815053,43.74634342734695,208</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="101">
+                <name>sn3p1</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn3p1</h1><h2>proposed</h2>Type: antenna<br>Altitude: 208<br>Date Added: 2020-08-19<br>Group: sn3<br>Model: nbe-5ac-gen2<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: sn3r1<br>SSID: tomesh-airmaxac-sn3p1<br><br>Antenna Type: narrow<br>Antenna Cone: 20<br>Antenna Direction: 92<br>Antenna Distance: 560<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#102</styleUrl>
+                <Point id="100">
+                    <coordinates>-79.217923,43.745949,208</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="106">
+                <name>sn3p3</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn3p3</h1><h2>proposed</h2>Type: antenna<br>Altitude: 208<br>Date Added: 2020-08-19<br>Group: sn3<br>Model: pbe-5ac-gen2<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: sn3r1<br>SSID: tomesh-airmaxac-sn3p3<br><br>Antenna Type: narrow<br>Antenna Cone: 12<br>Antenna Direction: 30<br>Antenna Distance: 3000<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#107</styleUrl>
+                <Point id="105">
+                    <coordinates>-79.217923,43.745949,208</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="111">
+                <name>sn3p4</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn3p4</h1><h2>proposed</h2>Type: antenna<br>Altitude: 208<br>Date Added: 2020-08-19<br>Group: sn3<br>Model: af-5g30-s45<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: sn3r1<br>SSID: tomesh-airfiber-sn3p4<br><br>Antenna Type: narrow<br>Antenna Cone: 45<br>Antenna Direction: 239<br>Antenna Distance: 11600<br>Antenna Protocol: airfiber<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#112</styleUrl>
+                <Point id="110">
+                    <coordinates>-79.217923,43.745949,208</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="116">
+                <name>sn3r2</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn3r2</h1><h2>proposed</h2>Type: router<br>Altitude: 203<br>Date Added: 2020-08-19<br>Group: sn3<br>Model: None<br>IPv4: None<br>IPv6: None<br>Mode: None<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#117</styleUrl>
+                <Point id="115">
+                    <coordinates>-79.21092198139954,43.745907288387635,203</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="121">
+                <name>sn3p2</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn3p2</h1><h2>proposed</h2>Type: antenna<br>Altitude: 203<br>Date Added: 2020-08-19<br>Group: sn2<br>Model: nbe-5ac-gen2<br>IPv4: None<br>IPv6: None<br>Mode: station<br>Connected Router: sn3r2<br>SSID: tomesh-airmaxac-sn3p1<br><br>Antenna Type: narrow<br>Antenna Cone: None<br>Antenna Direction: None<br>Antenna Distance: None<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#122</styleUrl>
+                <Point id="120">
+                    <coordinates>-79.21092198139954,43.745907288387635,203</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="126">
+                <name>sn3a3</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn3a3</h1><h2>proposed</h2>Type: antenna<br>Altitude: 203<br>Date Added: 2020-09-10<br>Group: sn3<br>Model: lap-120<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: sn3r2<br>SSID: tomesh-airmaxac-sn3a3<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 152<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#127</styleUrl>
+                <Point id="125">
+                    <coordinates>-79.2114208722763,43.74525622987225,203</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="131">
+                <name>sn3a4</name>
+                <visibility>1</visibility>
+                <description><![CDATA[<h1>sn3a4</h1><h2>proposed</h2>Type: antenna<br>Altitude: 203<br>Date Added: 2020-09-10<br>Group: sn3<br>Model: lap-120<br>IPv4: None<br>IPv6: None<br>Mode: ap<br>Connected Router: sn3r2<br>SSID: tomesh-airmaxac-sn3a4<br><br>Antenna Type: sector<br>Antenna Cone: 120<br>Antenna Direction: 62<br>Antenna Distance: 2500<br>Antenna Protocol: airmaxac<br><br>]]></description>
+                <Snippet/>
+                <styleUrl>#132</styleUrl>
+                <Point id="130">
+                    <coordinates>-79.2114208722763,43.74525622987225,203</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="4">
+            <name>Inactive Nodes</name>
+            <visibility>0</visibility>
+            <open>0</open>
+        </Folder>
+    </Document>
+</kml>
