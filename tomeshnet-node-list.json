@@ -583,7 +583,7 @@
       "antennaProtocol": "80211s",
       "antennaCone": 120,
       "antennaDirection": 340,
-      "antennaDistance": 200,
+      "antennaDistance": 350,
       "dateAdded": "2020-03-01",
       "group": "n1",
       "images": [
@@ -591,7 +591,7 @@
       ],
       "latitude": 43.6833846775,
       "longitude": -79.525557839,
-      "mode": "mesh",
+      "mode": "ap",
       "model": "nano-m5",
       "name": "n1a1",
       "ssid": "tomesh-80211s-mesh",
