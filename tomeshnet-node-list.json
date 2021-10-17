@@ -3,6 +3,7 @@
     {
       "altitude": 170,
       "dateAdded": "2020-07-23",
+      "exporterPort": "9100",
       "group": "sn1",
       "images": [
         "sn1r1-hw.jpg"
@@ -471,6 +472,7 @@
     {
       "altitude": 168,
       "dateAdded": "2021-02-24",
+      "exporterPort": "9100",
       "group": "sn4",
       "images": [
         "sn4r1-hw.jpg"
@@ -585,10 +587,13 @@
       "antennaDirection": 340,
       "antennaDistance": 350,
       "dateAdded": "2020-03-01",
+      "exporterPort": "9100",
       "group": "n1",
       "images": [
         "n1a1.jpg"
       ],
+      "ipv4": "10.1.2.2",
+      "ipv6": "fd74:6f6d:7386:0102::2",
       "latitude": 43.6833846775,
       "longitude": -79.525557839,
       "mode": "ap",
@@ -605,7 +610,10 @@
       "antennaDirection":350 ,
       "antennaDistance": 50,
       "dateAdded": "2020-03-01",
+      "exporterPort": "9100",
       "group": "n2",
+      "ipv4": "10.1.4.4",
+      "ipv6": "fd74:6f6d:7386:0104::4",
       "latitude": 43.68870113,
       "longitude": -79.51536812,
       "mode": "mesh",
