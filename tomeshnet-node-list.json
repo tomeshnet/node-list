@@ -13,7 +13,7 @@
       "longitude": -79.49164465910721,
       "model": "er-x-sfp",
       "name": "sn1r1",
-      "status": "active",
+      "status": "inactive",
       "type": "router"
     },
     {
@@ -480,7 +480,7 @@
       "latitude": 43.76613582473674,
       "longitude": -79.2000086983857,
       "name": "sn4r1",
-      "status": "active",
+      "status": "inactive",
       "type": "router"
     },
     {
